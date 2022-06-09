@@ -1,2 +1,2 @@
 # XTD
-This is a profile of QuantumultX and Clash
+This is a profile of QuantumultX
