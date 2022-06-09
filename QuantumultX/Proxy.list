@@ -380,7 +380,8 @@ DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
-# DOMAIN,store.steampowered.com,PROXY
+DOMAIN,store.steampowered.com,PROXY
+host,api.steampowered.com,Proxy
 # > Telegram
 DOMAIN-SUFFIX,legra.ph,PROXY
 DOMAIN-SUFFIX,t.me,PROXY
@@ -612,7 +613,6 @@ host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Proxy
 host,abematv.akamaized.net,Proxy
 host-suffix,googleadservices.com,Proxy
 host-suffix,arknights.jp,Proxy
-host,api.steampowered.com,Proxy
 host,api-glb-sea.smoot.apple.com,Proxy
 host,apps.apple.com,Proxy
 host-suffix,battle.net,Proxy
