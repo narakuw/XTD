@@ -240,24 +240,24 @@ DOMAIN-SUFFIX,zynamics.com,Proxy
 DOMAIN-KEYWORD,.blogspot.,Proxy
 #Google
 DOMAIN-KEYWORD,google,Proxy
-DOMAIN-suffix,google.com,Proxy
-DOMAIN-suffix,googleartproject.com,Proxy
-DOMAIN-suffix,googleblog.com,Proxy
-DOMAIN-suffix,googlecode.com,Proxy
-DOMAIN-suffix,googlecommerce.com,Proxy
-DOMAIN-suffix,googledomains.com,Proxy
-DOMAIN-suffix,googleearth.com,Proxy
-DOMAIN-suffix,googlegroups.com,Proxy
-DOMAIN-suffix,googlehosted.com,Proxy
-DOMAIN-suffix,googleideas.com,Proxy
-DOMAIN-suffix,googlelabs.com,Proxy
-DOMAIN-suffix,googlemail.com,Proxy
-DOMAIN-suffix,googleplay.com,Proxy
-DOMAIN-suffix,googleplus.com,Proxy
-DOMAIN-suffix,googlesource.com,Proxy
-DOMAIN-suffix,googletagmanager.com,Proxy
-DOMAIN-suffix,googletagservices.com,Proxy
-DOMAIN-suffix,googlevideo.com,Proxy
+DOMAIN-SUFFIX,google.com,Proxy
+DOMAIN-SUFFIX,googleartproject.com,Proxy
+DOMAIN-SUFFIX,googleblog.com,Proxy
+DOMAIN-SUFFIX,googlecode.com,Proxy
+DOMAIN-SUFFIX,googlecommerce.com,Proxy
+DOMAIN-SUFFIX,googledomains.com,Proxy
+DOMAIN-SUFFIX,googleearth.com,Proxy
+DOMAIN-SUFFIX,googlegroups.com,Proxy
+DOMAIN-SUFFIX,googlehosted.com,Proxy
+DOMAIN-SUFFIX,googleideas.com,Proxy
+DOMAIN-SUFFIX,googlelabs.com,Proxy
+DOMAIN-SUFFIX,googlemail.com,Proxy
+DOMAIN-SUFFIX,googleplay.com,Proxy
+DOMAIN-SUFFIX,googleplus.com,Proxy
+DOMAIN-SUFFIX,googlesource.com,Proxy
+DOMAIN-SUFFIX,googletagmanager.com,Proxy
+DOMAIN-SUFFIX,googletagservices.com,Proxy
+DOMAIN-SUFFIX,googlevideo.com,Proxy
 # > Chromecast with Google TV
 DOMAIN-KEYWORD,pa.google,Proxy
 # > Google Drive
@@ -271,7 +271,7 @@ DOMAIN-SUFFIX,googleusercontent.com,Proxy
 DOMAIN,www.googleapis.com,Proxy
 # > Google Search
 DOMAIN-KEYWORD,google.,Proxy
-DOMAIN-suffix,google.com,Proxy
+DOMAIN-SUFFIX,google.com,Proxy
 # > Google Voice
 # 如果你的代理服务器不支持 udp-relay 可尝试 DIRECT 以免被 REJECT（部分 Google 服务器还可直连）
 DOMAIN,lens.l.google.com,Proxy
@@ -400,9 +400,9 @@ DOMAIN-SUFFIX,reutersmedia.net,Proxy
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com,Proxy
 DOMAIN,store.steampowered.com,Proxy
-host,api.steampowered.com,Proxy
+DOMAIN,api.steampowered.com,Proxy
 # > Telegram
-DOMAIN-keyword,telegram,Proxy
+DOMAIN-KEYWORD,telegram,Proxy
 DOMAIN-SUFFIX,legra.ph,Proxy
 DOMAIN-SUFFIX,t.me,Proxy
 DOMAIN-SUFFIX,tdesktop.com,Proxy
@@ -437,7 +437,7 @@ DOMAIN-SUFFIX,nytlog.com,Proxy
 DOMAIN-SUFFIX,nytstyle.com,Proxy
 DOMAIN-SUFFIX,tmagazine.com,Proxy
 # > Twitter
-DOMAIN-keyword,twitter,Proxy
+DOMAIN-KEYWORD,twitter,Proxy
 DOMAIN-SUFFIX,periscope.tv,Proxy
 DOMAIN-SUFFIX,pscp.tv,Proxy
 DOMAIN-SUFFIX,t.co,Proxy
@@ -449,7 +449,7 @@ DOMAIN-SUFFIX,twitter.com,Proxy
 DOMAIN-SUFFIX,twitter.jp,Proxy
 DOMAIN-SUFFIX,vine.co,Proxy
 # > Wikimedia Foundation
-DOMAIN-keyword,wikipedia,Proxy
+DOMAIN-KEYWORD,wikipedia,Proxy
 DOMAIN-SUFFIX,mediawiki.org,Proxy
 DOMAIN-SUFFIX,wikibooks.org,Proxy
 DOMAIN-SUFFIX,wikidata.org,Proxy
@@ -490,13 +490,13 @@ DOMAIN,hls.itunes.apple.com,Proxy
 DOMAIN,itunes.apple.com,Proxy
 DOMAIN,gspe1-ssl.ls.apple.com,Proxy
 DOMAIN,lookup-api.apple.com,Proxy
-DOMAIN-suffix,apple.co,Proxy
-DOMAIN-suffix,apple.com,Proxy
-DOMAIN-suffix,cdn-apple.com,Proxy
+DOMAIN-SUFFIX,apple.co,Proxy
+DOMAIN-SUFFIX,apple.com,Proxy
+DOMAIN-SUFFIX,cdn-apple.com,Proxy
 # > Web Preview
 DOMAIN,tv.apple.com,Proxy
 # > News
-user-agent,com.apple.news*,Proxy
+USER-AGENT,com.apple.news*,Proxy
 DOMAIN,gateway.icloud.com,Proxy
 DOMAIN-SUFFIX,apple.news,Proxy
 DOMAIN,news-assets.apple.com,Proxy
@@ -643,12 +643,12 @@ DOMAIN-SUFFIX,wiley.com,Proxy
 DOMAIN-SUFFIX,worldbank.org,Proxy
 DOMAIN-SUFFIX,worldscientific.com,Proxy
 #BLZ Battle Net
-DOMAIN-suffix,battle.net,Proxy
-DOMAIN-suffix,cros.wr.pvp.net,Proxy
-DOMAIN-suffix,easebar.com,Proxy
+DOMAIN-SUFFIX,battle.net,Proxy
+DOMAIN-SUFFIX,cros.wr.pvp.net,Proxy
+DOMAIN-SUFFIX,easebar.com,Proxy
 #Arknights
-DOMAIN-suffix,arknights.jp,Proxy
+DOMAIN-SUFFIX,arknights.jp,Proxy
 #V2ray
-DOMAIN-suffix,v2ray.com,Proxy
+DOMAIN-SUFFIX,v2ray.com,Proxy
 #Shadowsocks
-DOMAIN-keyword,shadowsocks,Proxy
+DOMAIN-KEYWORD,shadowsocks,Proxy
