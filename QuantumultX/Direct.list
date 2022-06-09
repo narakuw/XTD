@@ -1,0 +1,69 @@
+host, blzddist1-a.akamaihd.net, direct
+host, download.jetbrains.com, direct
+host, officecdn-microsoft-com.akamaized.net, direct
+host, speedtest.macpaw.com, direct
+host-keyword, alipay, direct
+host-keyword, baidu, direct
+host-keyword, qq, direct
+host-keyword, spotify, proxy
+host-keyword, taobao, direct
+host-suffix, 126.net, direct
+host-suffix, 127.net, direct
+host-suffix, 163.com, direct
+host-suffix, 163yun.com, direct
+host-suffix, 21cn.com, direct
+host-suffix, 343480.com, direct
+host-suffix, 360buyimg.com, direct
+host-suffix, 360in.com, direct
+host-suffix, 51ym.me, direct
+host-suffix, 71.am.com, direct
+host-suffix, 8686c.com, direct
+host-suffix, abchina.com, direct
+host-suffix, accuweather.com, direct
+host-suffix, acgvideo.com, direct
+host-suffix, aicoinstorge.com, direct
+host-suffix, air-matters.com, direct
+host-suffix, air-matters.io, direct
+host-suffix, aixifan.com, direct
+host-suffix, akadns.net, direct
+host-suffix, akamai.net, direct
+host-suffix, akamaiedge.net, direct
+host-suffix, akamaihd.net, direct
+host-suffix, akamaistream.net, direct
+host-suffix, akamaized.net, direct
+host-suffix, alibaba.com, direct
+host-suffix, alicdn.com, direct
+host-suffix, alikunlun.com, direct
+host-suffix, alipay.com, direct
+host-suffix, amap.com, direct
+host-suffix, amd.com, direct
+host-suffix, autonavi.com, direct
+host-suffix, awesome-hd.me, direct
+host-suffix, b612.net, direct
+host-suffix, baduziyuan.com, direct
+host-suffix, baidu.com, direct
+host-suffix, baidubcr.com, direct
+host-suffix, bdatu.com, direct
+host-suffix, bdstatic.com, direct
+host-suffix, beitaichufang.com, direct
+host-suffix, biliapi.com, direct
+host-suffix, biliapi.net, direct
+host-suffix, bjango.com, direct
+host-suffix, booking.com, direct
+host-suffix, broadcasthe.net, direct
+# > Outlook
+DOMAIN,outlook.office365.com,DIRECT
+DOMAIN,smtp-mail.outlook.com,DIRECT
+DOMAIN,smtp.office365.com,DIRECT
+# > Windows Server Update Services
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
+DOMAIN-SUFFIX,update.microsoft.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.com,DIRECT
+DOMAIN-SUFFIX,windowsupdate.microsoft.com,DIRECT
+DOMAIN,download.microsoft.com,DIRECT
+DOMAIN,wustat.windows.com,DIRECT
+DOMAIN,ntservicepack.microsoft.com,DIRECT
+# > Tencent
+IP-CIDR,182.254.116.0/24,DIRECT
+IP-CIDR,203.205.238.0/23,DIRECT
+IP-CIDR,203.205.254.0/23,DIRECT
