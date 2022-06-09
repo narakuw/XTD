@@ -1,660 +1,660 @@
-DOMAIN, a.wkanx.com, reject
-DOMAIN, abema-adx.ameba.jp, reject
-DOMAIN, acs4baichuan.m.taobao.com, reject
-DOMAIN, ad.12306.cn, reject
-DOMAIN, ad.360in.com, reject
-DOMAIN, ad.51wnl-cq.com, reject
-DOMAIN, ad.api.3g.youku.com, reject
-DOMAIN, ad.api.moji.com, reject
-DOMAIN, ad.bn.netease.com, reject
-DOMAIN, ad.caiyunapp.com, reject
-DOMAIN, ad.endpo.in, reject
-DOMAIN, ad.hpplay.cn, reject
-DOMAIN, ad.huajiao.com, reject
-DOMAIN, ad.hzyoka.com, reject
-DOMAIN, ad.jiemian.com, reject
-DOMAIN, ad.mobile.youku.com, reject
-DOMAIN, ad.qingting.fm, reject
-DOMAIN, ad.toutiao.com, reject
-DOMAIN, ad.wappalyzer.com, reject
-DOMAIN, ad.ximalaya.com, reject
-DOMAIN, ad.yixin.im, reject
-DOMAIN, ad-analysis.pconline.com.cn, reject
-DOMAIN, adash.m.taobao.com, reject
-DOMAIN, adash.man.aliyuncs.com, reject
-DOMAIN, adashbc.ut.taobao.com, reject
-DOMAIN, adash-c.ut.taobao.com, reject
-DOMAIN, adashx.m.taobao.com, reject
-DOMAIN, adashx4yt.m.taobao.com, reject
-DOMAIN, adashxgc.ut.taobao.com, reject
-DOMAIN, adbehavior.wsa.ximalaya.com, reject
-DOMAIN, adbs.ximalaya.com, reject
-DOMAIN, ad-cn.jovcloud.com, reject
-DOMAIN, adeng.hpplay.cn, reject
-DOMAIN, adextra.51wnl-cq.com, reject
-DOMAIN, adfile.wifi8.com, reject
-DOMAIN, adimg.vue.weibo.com, reject
-DOMAIN, adlaunch.moji.com, reject
-DOMAIN, adm.10jqka.com.cn, reject
-DOMAIN, admarket.21cn.com, reject
-DOMAIN, admonitor.thepaper.cn, reject
-DOMAIN, admusicpic.music.126.net, reject
-DOMAIN, adnew.wifi8.com, reject
-DOMAIN, adpai.thepaper.cn, reject
-DOMAIN, adplatform.vrtcal.com, reject
-DOMAIN, adproxy.autohome.com.cn, reject
-DOMAIN, ads.adadapted.com, reject
-DOMAIN, ads.aplus.pptv.com, reject
-DOMAIN, ads.aplusapi.pptv.com, reject
-DOMAIN, ads.daydaycook.com.cn, reject
-DOMAIN, ads.mojicdn.com, reject
-DOMAIN, ads.nexage.com, reject
-DOMAIN, ads.service.kugou.com, reject
-DOMAIN, ads.simplepath.com, reject
-DOMAIN, ads.weilitoutiao.net, reject
-DOMAIN, adsapi.manhuaren.com, reject
-DOMAIN, adsdk.dmzj.com, reject
-DOMAIN, adse.wsa.ximalaya.com, reject
-DOMAIN, adse.ximalaya.com, reject
-DOMAIN, adsebs.ximalaya.com, reject
-DOMAIN, adserver.pandora.com, reject
-DOMAIN, adservice.google.com, reject
-DOMAIN, adserviceretry.kugou.com, reject
-DOMAIN, adsfile.bssdlbig.kugou.com, reject
-DOMAIN, adshow.58.com, reject
-DOMAIN, adshows.21cn.com, reject
-DOMAIN, adsmind.tc.qq.com, reject
-DOMAIN, adsp.xunlei.com, reject
-DOMAIN, ad-stat.ksosoft.com, reject
-DOMAIN, adtrack.ucweb.com, reject
-DOMAIN, adui.tg.meitu.com, reject
-DOMAIN, adv.bandi.so, reject
-DOMAIN, adv.sec.intl.miui.com, reject
-DOMAIN, adv.sec.miui.com, reject
-DOMAIN, advertise.baicizhan.com, reject
-DOMAIN, advertise.baicizhan.org, reject
-DOMAIN, adx.hupu.com, reject
-DOMAIN, adx.yiche.com, reject
-DOMAIN, adx-api.hupu.com, reject
-DOMAIN, adxserver.ad.cmvideo.cn, reject
-DOMAIN, afd.baidu.com, reject
-DOMAIN, al.autohome.com.cn, reject
-DOMAIN, alog.umeng.co, reject
-DOMAIN, alog.umeng.com, reject
-DOMAIN, alog.umengcloud.com, reject
-DOMAIN, alogs.umeng.com, reject
-DOMAIN, alogs.umengcloud.com, reject
-DOMAIN, als.baidu.com, reject
-DOMAIN, amdc.m.taobao.com, reject
-DOMAIN, api.newad.ifeng.com, reject
-DOMAIN, apm-track.xiaohongshu.com, reject
-DOMAIN, apoll.m.taobao.com, reject
-DOMAIN, app-ad.variflight.com, reject
-DOMAIN, applog.mobike.com, reject
-DOMAIN, applog.musical.ly, reject
-DOMAIN, applogapi.autohome.com.cn, reject
-DOMAIN, applogios.uc.cn, reject
-DOMAIN, appnext.hs.llnwd.net, reject
-DOMAIN, appnext-a.akamaihd.net, reject
-DOMAIN, apppv.zol.com.cn, reject
-DOMAIN, ar.umeng.com, reject
-DOMAIN, ark.letv.com, reject
-DOMAIN, asimgs.pplive.cn, reject
-DOMAIN, atm.youku.com, reject
-DOMAIN, atrace.chelaile.net.cn, reject
-DOMAIN, btrace.qq.com, reject
-DOMAIN, c1wx.lianwangtech.com, reject
-DOMAIN, cdn.adapi.fotoable.com, reject
-DOMAIN, cdn.segment.com, reject
-DOMAIN, config2.mparticle.com, reject
-DOMAIN, counter.kingsoft.com, reject
-DOMAIN, counter.ksosoft.com, reject
-DOMAIN, cwx.lianwangtech.com, reject
-DOMAIN, data.flurry.com, reject
-DOMAIN, data.mistat.xiaomi.com, reject
-DOMAIN, data.vod.itc.cn, reject
-DOMAIN, de.as.pptv.com, reject
-DOMAIN, duclick.baidu.com, reject
-DOMAIN, emma-414870e223.huodonghezi.com, reject
-DOMAIN, etl.xlmc.sandai.net, reject
-DOMAIN, g.koowo.com, reject
-DOMAIN, g3.letv.com, reject
-DOMAIN, galaxy.bjcathay.com, reject
-DOMAIN, geo2.adobe.com, reject
-DOMAIN, ggs.myzaker.com, reject
-DOMAIN, gs.getui.com, reject
-DOMAIN, h-adashx.ut.taobao.com, reject
-DOMAIN, hm.baidu.com, reject
-DOMAIN, hmma.baidu.com, reject
-DOMAIN, hui.sohu.com, reject
-DOMAIN, iad0ssl.pcauto.com.cn, reject
-DOMAIN, iad0ssl.pconline.com.cn, reject
-DOMAIN, iadmat.nosdn.127.net, reject
-DOMAIN, iadmusicmat.music.126.net, reject
-DOMAIN, iadmusicmatvideo.music.126.net, reject
-DOMAIN, ifacelog.iqiyi.com, reject
-DOMAIN, ifengad.3g.ifeng.com, reject
-DOMAIN, img.auction-ads.wpscdn.cn, reject
-DOMAIN, imgad0.pcauto.com.cn, reject
-DOMAIN, imgad0.pconline.com.cn, reject
-DOMAIN, imgadpai.thepaper.cn, reject
-DOMAIN, imp.optaim.com, reject
-DOMAIN, impservice.dictapp.youdao.com, reject
-DOMAIN, impservice.youdao.com, reject
-DOMAIN, itad.linetv.tw, reject
-DOMAIN, ivy.pchouse.com.cn, reject
-DOMAIN, iyes.youku.com, reject
-DOMAIN, ja.chushou.tv, reject
-DOMAIN, js.users.51.la, reject
-DOMAIN, kgmobilestat.kugou.com, reject
-DOMAIN, kgmobilestatbak.kugou.com, reject
-DOMAIN, log.b612kaji.com, reject
-DOMAIN, log.stat.kugou.com, reject
-DOMAIN, log.umsns.com, reject
-DOMAIN, log.v2.hunantv.com, reject
-DOMAIN, log.web.kugou.com, reject
-DOMAIN, log.ycapp.yiche.com, reject
-DOMAIN, log.yex.youdao.com, reject
-DOMAIN, logs.chelaile.net.cn, reject
-DOMAIN, log-yex.youdao.com, reject
-DOMAIN, mads.suning.com, reject
-DOMAIN, mbdlog.iqiyi.com, reject
-DOMAIN, mdrecv.app.cntvwb.cn, reject
-DOMAIN, mi.gdt.qq.com, reject
-DOMAIN, minfo.wps.cn, reject
-DOMAIN, mobad.ijinshan.com, reject
-DOMAIN, mobads.baidu.com, reject
-DOMAIN, mobads-logs.baidu.com, reject
-DOMAIN, mobilead.kuwo.cn, reject
-DOMAIN, mobileads.msn.com, reject
-DOMAIN, mobilelog.kugou.com, reject
-DOMAIN, mopnativeadv.037201.com, reject
-DOMAIN, msg.71.am, reject
-DOMAIN, msg.qy.net, reject
-DOMAIN, mtrace.qq.com, reject
-DOMAIN, n.3g.163.com, reject
-DOMAIN, n.mark.letv.com, reject
-DOMAIN, nativeadv.dftoutiao.com, reject
-DOMAIN, nbsdk-baichuan.alicdn.com, reject
-DOMAIN, newloc.map.n.shifen.com, reject
-DOMAIN, newvector.map.baidu.com, reject
-DOMAIN, nex.163.com, reject
-DOMAIN, nsclick.baidu.com, reject
-DOMAIN, o2o.api.xiaomi.com, reject
-DOMAIN, offnavi.map.baidu.com, reject
-DOMAIN, optimus-ads.amap.com, reject
-DOMAIN, oth.eve.mdt.qq.com, reject
-DOMAIN, pgdt.gtimg.cn, reject
-DOMAIN, pgdt.gtimg.com, reject
-DOMAIN, ping.chartbeat.net, reject
-DOMAIN, pingma.qq.com, reject
-DOMAIN, pingtcss.qq.com, reject
-DOMAIN, plbslog.umeng.com, reject
-DOMAIN, ps.map.baidu.com, reject
-DOMAIN, pvnapp.zol.com.cn, reject
-DOMAIN, rd.autohome.com.cn, reject
-DOMAIN, regist.fotoable.com, reject
-DOMAIN, rich.kuwo.cn, reject
-DOMAIN, rp.hpplay.cn, reject
-DOMAIN, sax.sina.com.cn, reject
-DOMAIN, saxn.sina.com.cn, reject
-DOMAIN, saxs.sina.com.cn, reject
-DOMAIN, sdapprecv.app.cntvwb.cn, reject
-DOMAIN, splashqqlive.gtimg.com, reject
-DOMAIN, stat.10jqka.com.cn, reject
-DOMAIN, static.jpush.cn, reject
-DOMAIN, static.ws.126.net, reject
-DOMAIN, stats.umsns.com, reject
-DOMAIN, sugar.zhihu.com, reject
-DOMAIN, sv.map.baidu.com, reject
-DOMAIN, t7z.cupid.iqiyi.com, reject
-DOMAIN, t-ads.xiaohongshu.com, reject
-DOMAIN, tajs.qq.com, reject
-DOMAIN, track.58.com, reject
-DOMAIN, track.sohu.com, reject
-DOMAIN, track.tiara.daum.net, reject
-DOMAIN, track.tiara.kakao.com, reject
-DOMAIN, track.toutiao.com, reject
-DOMAIN, track.uc.cn, reject
-DOMAIN, trackapp.guahao.cn, reject
-DOMAIN, tracking.intl.miui.com, reject
-DOMAIN, tracklog.58.com, reject
-DOMAIN, traffic.mogujie.com, reject
-DOMAIN, tunion-api.m.taobao.com, reject
-DOMAIN, u1.img.mobile.sina.cn, reject
-DOMAIN, ulog.imap.baidu.com, reject
-DOMAIN, ulogs.umeng.com, reject
-DOMAIN, ulogs.umengcloud.com, reject
-DOMAIN, ups.ksmobile.net, reject
-DOMAIN, v1.log.moji.com, reject
-DOMAIN, v2.log.hunantv.com, reject
-DOMAIN, v2.reachmax.cn, reject
-DOMAIN, vdapprecv.app.cntvwb.cn, reject
-DOMAIN, wmlog.meituan.com, reject
-DOMAIN, wn.pos.baidu.com, reject
-DOMAIN, ws.ksmobile.net, reject
-DOMAIN, wxsnsdy.wxs.qq.com, reject
-DOMAIN, wxsnsdythumb.wxs.qq.com, reject
-DOMAIN, xlog.snssdk.com, reject
-DOMAIN, xlog-va.byteoversea.com, reject
-DOMAIN, yt-adp.nosdn.127.net, reject
-DOMAIN-keyword, adservice, reject
-DOMAIN-keyword, analysis, reject
-DOMAIN-keyword, analytics, reject
-DOMAIN-keyword, epochtimes, reject
-DOMAIN-suffix, 17gouwuba.com, reject
-DOMAIN-suffix, 186078.com, reject
-DOMAIN-suffix, 189zj.cn, reject
-DOMAIN-suffix, 285680.com, reject
-DOMAIN-suffix, 2o7.net, reject
-DOMAIN-suffix, 3721zh.com, reject
-DOMAIN-suffix, 4009997658.com, reject
-DOMAIN-suffix, 42trck.com, reject
-DOMAIN-suffix, 4336wang.cn, reject
-DOMAIN-suffix, 51.la, reject
-DOMAIN-suffix, 51chumoping.com, reject
-DOMAIN-suffix, 51mld.cn, reject
-DOMAIN-suffix, 51mypc.cn, reject
-DOMAIN-suffix, 58mingri.cn, reject
-DOMAIN-suffix, 58mingtian.cn, reject
-DOMAIN-suffix, 5vl58stm.com, reject
-DOMAIN-suffix, 6d63d3.com, reject
-DOMAIN-suffix, 7gg.cc, reject
-DOMAIN-suffix, 881903.com, reject
-DOMAIN-suffix, 91veg.com, reject
-DOMAIN-suffix, 9s6q.cn, reject
-DOMAIN-suffix, abbyychina.com, reject
-DOMAIN-suffix, aboluowang.com, reject
-DOMAIN-suffix, ad.daum.net, reject
-DOMAIN-suffix, ad.intl.xiaomi.com, reject
-DOMAIN-suffix, ad.sohu.com, reject
-DOMAIN-suffix, ad.xiaomi.com, reject
-DOMAIN-suffix, adcolony.com, reject
-DOMAIN-suffix, adform.net, reject
-DOMAIN-suffix, adinall.com, reject
-DOMAIN-suffix, adinfuse.com, reject
-DOMAIN-suffix, adjust.com, reject
-DOMAIN-suffix, adjust.io, reject
-DOMAIN-suffix, adlefee.com, reject
-DOMAIN-suffix, admarvel.com, reject
-DOMAIN-suffix, admaster.com.cn, reject
-DOMAIN-suffix, admob.com, reject
-DOMAIN-suffix, admob.xiaomi.com, reject
-DOMAIN-suffix, adnxs.com, reject
-DOMAIN-suffix, adnyg.com, reject
-DOMAIN-suffix, ads.internal.unity3d.com, reject
-DOMAIN-suffix, ads.prd.ie.internal.unity3d.com, reject
-DOMAIN-suffix, ads.sohu.com, reject
-DOMAIN-suffix, adsame.com, reject
-DOMAIN-suffix, adsensor.org, reject
-DOMAIN-suffix, ads-twitter.com, reject
-DOMAIN-suffix, adtarget.tech, reject
-DOMAIN-suffix, adthor.com, reject
-DOMAIN-suffix, advertising.com, reject
-DOMAIN-suffix, adview.cn, reject
-DOMAIN-suffix, adwhirl.com, reject
-DOMAIN-suffix, adxpansion.com, reject
-DOMAIN-suffix, aerserv.com, reject
-DOMAIN-suffix, aiclk.com, reject
-DOMAIN-suffix, akuai.top, reject
-DOMAIN-suffix, alipaylog.com, reject
-DOMAIN-suffix, amazon-adsystem.com, reject
-DOMAIN-suffix, amobee.com, reject
-DOMAIN-suffix, analysys.cn, reject
-DOMAIN-suffix, api.map.baidu.com, reject
-DOMAIN-suffix, app-adforce.jp, reject
-DOMAIN-suffix, appadhoc.com, reject
-DOMAIN-suffix, appads.com, reject
-DOMAIN-suffix, appcpi.net, reject
-DOMAIN-suffix, appier.net, reject
-DOMAIN-suffix, applift.com, reject
-DOMAIN-suffix, applovin.com, reject
-DOMAIN-suffix, applvn.com, reject
-DOMAIN-suffix, appsflyer.com, reject
-DOMAIN-suffix, apptentive.com, reject
-DOMAIN-suffix, apsalar.com, reject
-DOMAIN-suffix, apxadtracking.net, reject
-DOMAIN-suffix, ashifen.com, reject
-DOMAIN-suffix, atm.youku.com, reject
-DOMAIN-suffix, atplay.cn, reject
-DOMAIN-suffix, aty.sohu.com, reject
-DOMAIN-suffix, axonix.com, reject
-DOMAIN-suffix, baidustatic.com, reject
-DOMAIN-suffix, baiwanchuangyi.com, reject
-DOMAIN-suffix, bannedbook.org, reject
-DOMAIN-suffix, bartender.cc, reject
-DOMAIN-suffix, bayimob.com, reject
-DOMAIN-suffix, beacon.qq.com, reject
-DOMAIN-suffix, beacon.sina.com.cn, reject
-DOMAIN-suffix, beerto.cn, reject
-DOMAIN-suffix, beilamusi.com, reject
-DOMAIN-suffix, benshiw.net, reject
-DOMAIN-suffix, betterzip.net, reject
-DOMAIN-suffix, beyondcompare.cc, reject
-DOMAIN-suffix, bianxianmao.com, reject
-DOMAIN-suffix, bingdianhuanyuan.cn, reject
-DOMAIN-suffix, bldaily.com, reject
-DOMAIN-suffix, bryonypie.com, reject
-DOMAIN-suffix, bugly.qq.com, reject
-DOMAIN-suffix, bulldogcpi.com, reject
-DOMAIN-suffix, cb.baidu.com, reject
-DOMAIN-suffix, chemdraw.com.cn, reject
-DOMAIN-suffix, china21.org, reject
-DOMAIN-suffix, chinaaffairs.org, reject
-DOMAIN-suffix, cishantao.com, reject
-DOMAIN-suffix, cjmakeding.com, reject
-DOMAIN-suffix, cjmkt.com, reject
-DOMAIN-suffix, clotfun.mobi, reject
-DOMAIN-suffix, clotfun.online, reject
-DOMAIN-suffix, cloudmobi.net, reject
-DOMAIN-suffix, cnzz.com, reject
-DOMAIN-suffix, cocounion.com, reject
-DOMAIN-suffix, codesoftchina.com, reject
-DOMAIN-suffix, conviva.com, reject
-DOMAIN-suffix, coreldrawchina.com, reject
-DOMAIN-suffix, cpro.baidu.com, reject
-DOMAIN-suffix, crossoverchina.com, reject
-DOMAIN-suffix, crwdcntrl.net, reject
-DOMAIN-suffix, cszlks.com, reject
-DOMAIN-suffix, ctrmi.com, reject
-DOMAIN-suffix, cudaojia.com, reject
-DOMAIN-suffix, cupid.iqiyi.com, reject
-DOMAIN-suffix, da.hunantv.com, reject
-DOMAIN-suffix, da.mgtv.com, reject
-DOMAIN-suffix, dafapromo.com, reject
-DOMAIN-suffix, daitdai.com, reject
-DOMAIN-suffix, dajiyuan.com, reject
-DOMAIN-suffix, dalianmeng.org, reject
-DOMAIN-suffix, data.mistat.xiaomi.com, reject
-DOMAIN-suffix, deliver.ifeng.com, reject
-DOMAIN-suffix, dkn.tv, reject
-DOMAIN-suffix, dongtaiwang.com, reject
-DOMAIN-suffix, doubleclick.net, reject
-DOMAIN-suffix, dpm.demdex.net, reject
-DOMAIN-suffix, dsaeerf.com, reject
-DOMAIN-suffix, dtscout.com, reject
-DOMAIN-suffix, dugesheying.com, reject
-DOMAIN-suffix, dv8c1t.cn, reject
-DOMAIN-suffix, e.qq.com, reject
-DOMAIN-suffix, easyrecoverychina.com, reject
-DOMAIN-suffix, echatu.com, reject
-DOMAIN-suffix, ediuschina.com, reject
-DOMAIN-suffix, edoors.com, reject
-DOMAIN-suffix, epochweekly.com, reject
-DOMAIN-suffix, erdoscs.com, reject
-DOMAIN-suffix, eum-appdynamics.com, reject
-DOMAIN-suffix, exoclick.com, reject
-DOMAIN-suffix, exosrv.com, reject
-DOMAIN-suffix, falundafa.org, reject
-DOMAIN-suffix, fan-yong.com, reject
-DOMAIN-suffix, feih.com.cn, reject
-DOMAIN-suffix, fgmtv.org, reject
-DOMAIN-suffix, fjlqqc.com, reject
-DOMAIN-suffix, fkku194.com, reject
-DOMAIN-suffix, flash.cn, reject
-DOMAIN-suffix, flstudiochina.com, reject
-DOMAIN-suffix, flurry.com, reject
-DOMAIN-suffix, formysql.com, reject
-DOMAIN-suffix, freedrive.cn, reject
-DOMAIN-suffix, fwmrm.net, reject
-DOMAIN-suffix, gardennetworks.com, reject
-DOMAIN-suffix, gclick.cn, reject
-DOMAIN-suffix, gdt.qq.com, reject
-DOMAIN-suffix, go2cloud.org, reject
-DOMAIN-suffix, gongyiluntan.org, reject
-DOMAIN-suffix, googleadservices.com, reject
-DOMAIN-suffix, googleadsserving.cn, reject
-DOMAIN-suffix, googlesyndication.com, reject
-DOMAIN-suffix, googletagmanager.com, reject
-DOMAIN-suffix, googletagservices.com, reject
-DOMAIN-suffix, goufanli100.com, reject
-DOMAIN-suffix, goupaoerdai.com, reject
-DOMAIN-suffix, gouwubang.com, reject
-DOMAIN-suffix, gpass1.com, reject
-DOMAIN-suffix, growingio.com, reject
-DOMAIN-suffix, guitarpro.cc, reject
-DOMAIN-suffix, gzxnlk.com, reject
-DOMAIN-suffix, haloapps.com, reject
-DOMAIN-suffix, haoshengtoys.com, reject
-DOMAIN-suffix, hrichina.org, reject
-DOMAIN-suffix, huanghuagang.org, reject
-DOMAIN-suffix, huishenghuiying.com.cn, reject
-DOMAIN-suffix, hypersnap.net, reject
-DOMAIN-suffix, iadsdk.apple.com, reject
-DOMAIN-suffix, ichaosheng.com, reject
-DOMAIN-suffix, iconworkshop.cn, reject
-DOMAIN-suffix, idealads.net, reject
-DOMAIN-suffix, imindmap.cc, reject
-DOMAIN-suffix, inmobi.cn, reject
-DOMAIN-suffix, inmobi.com, reject
-DOMAIN-suffix, inmobi.net, reject
-DOMAIN-suffix, inmobicdn.cn, reject
-DOMAIN-suffix, inner-active.mobi, reject
-DOMAIN-suffix, internetfreedom.org, reject
-DOMAIN-suffix, ironsrc.com, reject
-DOMAIN-suffix, irs01.com, reject
-DOMAIN-suffix, ishop789.com, reject
-DOMAIN-suffix, iskyworker.com, reject
-DOMAIN-suffix, jdkic.com, reject
-DOMAIN-suffix, jihehuaban.com.cn, reject
-DOMAIN-suffix, jiubuhua.com, reject
-DOMAIN-suffix, jwg365.cn, reject
-DOMAIN-suffix, kanzhongguo.com, reject
-DOMAIN-suffix, kawo77.com, reject
-DOMAIN-suffix, kejet.net, reject
-DOMAIN-suffix, keyshot.cc, reject
-DOMAIN-suffix, kingdeecn.cn, reject
-DOMAIN-suffix, kochava.com, reject
-DOMAIN-suffix, kuaizip.com, reject
-DOMAIN-suffix, kualianyingxiao.cn, reject
-DOMAIN-suffix, kumihua.com, reject
-DOMAIN-suffix, l.qq.com, reject
-DOMAIN-suffix, lagranepoca.com, reject
-DOMAIN-suffix, leadboltmobile.net, reject
-DOMAIN-suffix, lenzmx.com, reject
-DOMAIN-suffix, liveadvert.com, reject
-DOMAIN-suffix, lnk0.com, reject
-DOMAIN-suffix, lnk8.cn, reject
-DOMAIN-suffix, localytics.com, reject
-DOMAIN-suffix, log.hunantv.com, reject
-DOMAIN-suffix, logoshejishi.com, reject
-DOMAIN-suffix, ltheanine.cn, reject
-DOMAIN-suffix, mackeeper.com, reject
-DOMAIN-suffix, maipinshangmao.com, reject
-DOMAIN-suffix, mairuan.cn, reject
-DOMAIN-suffix, mairuan.com, reject
-DOMAIN-suffix, mairuan.com.cn, reject
-DOMAIN-suffix, mairuan.net, reject
-DOMAIN-suffix, mairuanwang.com, reject
-DOMAIN-suffix, makeding.com, reject
-DOMAIN-suffix, mathtype.cn, reject
-DOMAIN-suffix, mdfull.com, reject
-DOMAIN-suffix, measurementapi.com, reject
-DOMAIN-suffix, medialytics.com, reject
-DOMAIN-suffix, mh4u.org, reject
-DOMAIN-suffix, mhradio.org, reject
-DOMAIN-suffix, miaozhen.com, reject
-DOMAIN-suffix, mindmanager.cc, reject
-DOMAIN-suffix, mindmapper.cc, reject
-DOMAIN-suffix, minghui.org, reject
-DOMAIN-suffix, minisplat.cn, reject
-DOMAIN-suffix, mkitgfs.com, reject
-DOMAIN-suffix, mlnbike.com, reject
-DOMAIN-suffix, mmstat.com, reject
-DOMAIN-suffix, moatads.com, reject
-DOMAIN-suffix, mobclix.com, reject
-DOMAIN-suffix, mobileapptracking.com, reject
-DOMAIN-suffix, mobjump.com, reject
-DOMAIN-suffix, mopub.com, reject
-DOMAIN-suffix, mycleanmymac.com, reject
-DOMAIN-suffix, nbkbgd.cn, reject
-DOMAIN-suffix, newapi.com, reject
-DOMAIN-suffix, newrealmstudios.ca, reject
-DOMAIN-suffix, newvector.map.baidu.com, reject
-DOMAIN-suffix, nicelabel.cc, reject
-DOMAIN-suffix, ntdtv.com, reject
-DOMAIN-suffix, ntfsformac.cc, reject
-DOMAIN-suffix, ntfsformac.cn, reject
-DOMAIN-suffix, offnavi.map.baidu.com, reject
-DOMAIN-suffix, ogate.org, reject
-DOMAIN-suffix, omtrdc.net, reject
-DOMAIN-suffix, open.com.hk, reject
-DOMAIN-suffix, openx.net, reject
-DOMAIN-suffix, organcare.org.tw, reject
-DOMAIN-suffix, overturechina.com, reject
-DOMAIN-suffix, passwordrecovery.cn, reject
-DOMAIN-suffix, pdfexpert.cc, reject
-DOMAIN-suffix, pingjs.qq.com, reject
-DOMAIN-suffix, pingma.qq.com, reject
-DOMAIN-suffix, pinzhitmall.com, reject
-DOMAIN-suffix, poppyta.com, reject
-DOMAIN-suffix, pos.baidu.com, reject
-DOMAIN-suffix, ps.map.baidu.com, reject
-DOMAIN-suffix, qchannel01.cn, reject
-DOMAIN-suffix, qianchuanghr.com, reject
-DOMAIN-suffix, qichexin.com, reject
-DOMAIN-suffix, qinchugudao.com, reject
-DOMAIN-suffix, quanliyouxi.cn, reject
-DOMAIN-suffix, quantserve.com, reject
-DOMAIN-suffix, qutaobi.com, reject
-DOMAIN-suffix, qxbbs.org, reject
-DOMAIN-suffix, rayjump.com, reject
-DOMAIN-suffix, renminbao.com, reject
-DOMAIN-suffix, rqd.qq.com, reject
-DOMAIN-suffix, rubiconproject.com, reject
-DOMAIN-suffix, ry51w.cn, reject
-DOMAIN-suffix, scorecardresearch.com, reject
-DOMAIN-suffix, sdkclick.com, reject
-DOMAIN-suffix, secretchina.com, reject
-DOMAIN-suffix, serving-sys.com, reject
-DOMAIN-suffix, sg536.cn, reject
-DOMAIN-suffix, shankejingling.com, reject
-DOMAIN-suffix, shenyun.com, reject
-DOMAIN-suffix, shenyunperformingarts.org, reject
-DOMAIN-suffix, shenzhoufilm.com, reject
-DOMAIN-suffix, shifen.com, reject
-DOMAIN-suffix, shuzilm.cn, reject
-DOMAIN-suffix, sifubo.cn, reject
-DOMAIN-suffix, sifuce.cn, reject
-DOMAIN-suffix, sifuda.cn, reject
-DOMAIN-suffix, sifufu.cn, reject
-DOMAIN-suffix, sifuge.cn, reject
-DOMAIN-suffix, sifugu.cn, reject
-DOMAIN-suffix, sifuhe.cn, reject
-DOMAIN-suffix, sifuhu.cn, reject
-DOMAIN-suffix, sifuji.cn, reject
-DOMAIN-suffix, sifuka.cn, reject
-DOMAIN-suffix, smaato.net, reject
-DOMAIN-suffix, smartadserver.com, reject
-DOMAIN-suffix, smartnews-ads.com, reject
-DOMAIN-suffix, smgru.net, reject
-DOMAIN-suffix, soundofhope.org, reject
-DOMAIN-suffix, sv.map.baidu.com, reject
-DOMAIN-suffix, tagtic.cn, reject
-DOMAIN-suffix, talkingdata.com, reject
-DOMAIN-suffix, tanv.com, reject
-DOMAIN-suffix, tanx.com, reject
-DOMAIN-suffix, taoggou.com, reject
-DOMAIN-suffix, tapjoy.com, reject
-DOMAIN-suffix, tcxshop.com, reject
-DOMAIN-suffix, theepochtimes.com, reject
-DOMAIN-suffix, tiandixing.org, reject
-DOMAIN-suffix, tjqonline.cn, reject
-DOMAIN-suffix, topitme.com, reject
-DOMAIN-suffix, track.xiachufang.com, reject
-DOMAIN-suffix, tracking.miui.com, reject
-DOMAIN-suffix, trafficjunky.net, reject
-DOMAIN-suffix, tt3sm4.cn, reject
-DOMAIN-suffix, tuanxue360.net, reject
-DOMAIN-suffix, tuia.cn, reject
-DOMAIN-suffix, tuidang.org, reject
-DOMAIN-suffix, tuipenguin.com, reject
-DOMAIN-suffix, tuitiger.com, reject
-DOMAIN-suffix, turn.com, reject
-DOMAIN-suffix, udrig.com, reject
-DOMAIN-suffix, ulog.imap.baidu.com, reject
-DOMAIN-suffix, ultraiso.net, reject
-DOMAIN-suffix, umeng.com, reject
-DOMAIN-suffix, umengcloud.com, reject
-DOMAIN-suffix, union.baidu.com, reject
-DOMAIN-suffix, unityads.unity3d.com, reject
-DOMAIN-suffix, urbanairship.com, reject
-DOMAIN-suffix, uri6.com, reject
-DOMAIN-suffix, vegaschina.cn, reject
-DOMAIN-suffix, velkaepocha.sk, reject
-DOMAIN-suffix, vidoomy.com, reject
-DOMAIN-suffix, voiceads.cn, reject
-DOMAIN-suffix, voicefive.com, reject
-DOMAIN-suffix, vungle.com, reject
-DOMAIN-suffix, watchinese.com, reject
-DOMAIN-suffix, webp2p.letv.com, reject
-DOMAIN-suffix, websd8.com, reject
-DOMAIN-suffix, wedolook.com, reject
-DOMAIN-suffix, wixsite.com, reject
-DOMAIN-suffix, wujie.net, reject
-DOMAIN-suffix, wujieliulan.com, reject
-DOMAIN-suffix, wx16999.com, reject
-DOMAIN-suffix, xdrig.com, reject
-DOMAIN-suffix, xiaohuau.xyz, reject
-DOMAIN-suffix, xinsheng.net, reject
-DOMAIN-suffix, xmindchina.net, reject
-DOMAIN-suffix, xshellcn.com, reject
-DOMAIN-suffix, yihuifu.cn, reject
-DOMAIN-suffix, yinmong.com, reject
-DOMAIN-suffix, yiqifa.com, reject
-DOMAIN-suffix, yitaopt.com, reject
-DOMAIN-suffix, yjqiqi.com, reject
-DOMAIN-suffix, yuanchengxiezuo.com, reject
-DOMAIN-suffix, yukhj.com, reject
-DOMAIN-suffix, zbrushcn.com, reject
-DOMAIN-suffix, zhaozecheng.cn, reject
-DOMAIN-suffix, zhengjian.org, reject
-DOMAIN-suffix, zhenxinet.com, reject
-DOMAIN-suffix, zhuichaguoji.org, reject
-DOMAIN-suffix, zhzzx.com, reject
-DOMAIN-suffix, zlne800.com, reject
-DOMAIN-suffix, zunmi.cn, reject
-DOMAIN-suffix, zzd6.com, reject
-ip-cidr, 10.72.25.0/24, reject
-ip-cidr, 101.227.200.11/32, reject
-ip-cidr, 101.227.200.28/32, reject
-ip-cidr, 101.227.97.240/32, reject
-ip-cidr, 103.49.209.27/32, reject
-ip-cidr, 106.75.231.48/32, reject
-ip-cidr, 111.175.220.163/32, reject
-ip-cidr, 111.175.220.164/32, reject
-ip-cidr, 114.247.28.96/32, reject
-ip-cidr, 115.182.16.79/32, reject
-ip-cidr, 118.144.88.126/32, reject
-ip-cidr, 118.144.88.215/32, reject
-ip-cidr, 118.144.88.216/32, reject
-ip-cidr, 119.4.249.166/32, reject
-ip-cidr, 120.76.189.132/32, reject
-ip-cidr, 123.56.152.96/32, reject
-ip-cidr, 124.14.21.147/32, reject
-ip-cidr, 124.14.21.151/32, reject
-ip-cidr, 124.192.153.42/32, reject
-ip-cidr, 124.232.160.178/32, reject
-ip-cidr, 175.6.223.15/32, reject
-ip-cidr, 180.166.52.24/32, reject
-ip-cidr, 183.59.53.237/32, reject
-ip-cidr, 211.161.101.106/32, reject
-ip-cidr, 218.93.127.37/32, reject
-ip-cidr, 220.115.251.25/32, reject
-ip-cidr, 220.196.52.141/32, reject
-ip-cidr, 221.179.131.72/32, reject
-ip-cidr, 221.179.140.145/32, reject
-ip-cidr, 221.228.17.152/32, reject
-ip-cidr, 221.231.6.79/32, reject
-ip-cidr, 221.6.4.148/32, reject
-ip-cidr, 222.186.61.91/32, reject
-ip-cidr, 222.186.61.95/32, reject
-ip-cidr, 222.186.61.96/32, reject
-ip-cidr, 222.186.61.97/32, reject
-ip-cidr, 222.73.156.235/32, reject
-ip-cidr, 39.107.15.115/32, reject
-ip-cidr, 47.89.59.182/32, reject
-ip-cidr, 61.160.200.223/32, reject
-ip-cidr, 61.160.200.242/32, reject
-ip-cidr, 61.160.200.252/32, reject
-ip-cidr, 61.174.50.214/32, reject
+DOMAIN,a.wkanx.com,reject
+DOMAIN,abema-adx.ameba.jp,reject
+DOMAIN,acs4baichuan.m.taobao.com,reject
+DOMAIN,ad.12306.cn,reject
+DOMAIN,ad.360in.com,reject
+DOMAIN,ad.51wnl-cq.com,reject
+DOMAIN,ad.api.3g.youku.com,reject
+DOMAIN,ad.api.moji.com,reject
+DOMAIN,ad.bn.netease.com,reject
+DOMAIN,ad.caiyunapp.com,reject
+DOMAIN,ad.endpo.in,reject
+DOMAIN,ad.hpplay.cn,reject
+DOMAIN,ad.huajiao.com,reject
+DOMAIN,ad.hzyoka.com,reject
+DOMAIN,ad.jiemian.com,reject
+DOMAIN,ad.mobile.youku.com,reject
+DOMAIN,ad.qingting.fm,reject
+DOMAIN,ad.toutiao.com,reject
+DOMAIN,ad.wappalyzer.com,reject
+DOMAIN,ad.ximalaya.com,reject
+DOMAIN,ad.yixin.im,reject
+DOMAIN,ad-analysis.pconline.com.cn,reject
+DOMAIN,adash.m.taobao.com,reject
+DOMAIN,adash.man.aliyuncs.com,reject
+DOMAIN,adashbc.ut.taobao.com,reject
+DOMAIN,adash-c.ut.taobao.com,reject
+DOMAIN,adashx.m.taobao.com,reject
+DOMAIN,adashx4yt.m.taobao.com,reject
+DOMAIN,adashxgc.ut.taobao.com,reject
+DOMAIN,adbehavior.wsa.ximalaya.com,reject
+DOMAIN,adbs.ximalaya.com,reject
+DOMAIN,ad-cn.jovcloud.com,reject
+DOMAIN,adeng.hpplay.cn,reject
+DOMAIN,adextra.51wnl-cq.com,reject
+DOMAIN,adfile.wifi8.com,reject
+DOMAIN,adimg.vue.weibo.com,reject
+DOMAIN,adlaunch.moji.com,reject
+DOMAIN,adm.10jqka.com.cn,reject
+DOMAIN,admarket.21cn.com,reject
+DOMAIN,admonitor.thepaper.cn,reject
+DOMAIN,admusicpic.music.126.net,reject
+DOMAIN,adnew.wifi8.com,reject
+DOMAIN,adpai.thepaper.cn,reject
+DOMAIN,adplatform.vrtcal.com,reject
+DOMAIN,adproxy.autohome.com.cn,reject
+DOMAIN,ads.adadapted.com,reject
+DOMAIN,ads.aplus.pptv.com,reject
+DOMAIN,ads.aplusapi.pptv.com,reject
+DOMAIN,ads.daydaycook.com.cn,reject
+DOMAIN,ads.mojicdn.com,reject
+DOMAIN,ads.nexage.com,reject
+DOMAIN,ads.service.kugou.com,reject
+DOMAIN,ads.simplepath.com,reject
+DOMAIN,ads.weilitoutiao.net,reject
+DOMAIN,adsapi.manhuaren.com,reject
+DOMAIN,adsdk.dmzj.com,reject
+DOMAIN,adse.wsa.ximalaya.com,reject
+DOMAIN,adse.ximalaya.com,reject
+DOMAIN,adsebs.ximalaya.com,reject
+DOMAIN,adserver.pandora.com,reject
+DOMAIN,adservice.google.com,reject
+DOMAIN,adserviceretry.kugou.com,reject
+DOMAIN,adsfile.bssdlbig.kugou.com,reject
+DOMAIN,adshow.58.com,reject
+DOMAIN,adshows.21cn.com,reject
+DOMAIN,adsmind.tc.qq.com,reject
+DOMAIN,adsp.xunlei.com,reject
+DOMAIN,ad-stat.ksosoft.com,reject
+DOMAIN,adtrack.ucweb.com,reject
+DOMAIN,adui.tg.meitu.com,reject
+DOMAIN,adv.bandi.so,reject
+DOMAIN,adv.sec.intl.miui.com,reject
+DOMAIN,adv.sec.miui.com,reject
+DOMAIN,advertise.baicizhan.com,reject
+DOMAIN,advertise.baicizhan.org,reject
+DOMAIN,adx.hupu.com,reject
+DOMAIN,adx.yiche.com,reject
+DOMAIN,adx-api.hupu.com,reject
+DOMAIN,adxserver.ad.cmvideo.cn,reject
+DOMAIN,afd.baidu.com,reject
+DOMAIN,al.autohome.com.cn,reject
+DOMAIN,alog.umeng.co,reject
+DOMAIN,alog.umeng.com,reject
+DOMAIN,alog.umengcloud.com,reject
+DOMAIN,alogs.umeng.com,reject
+DOMAIN,alogs.umengcloud.com,reject
+DOMAIN,als.baidu.com,reject
+DOMAIN,amdc.m.taobao.com,reject
+DOMAIN,api.newad.ifeng.com,reject
+DOMAIN,apm-track.xiaohongshu.com,reject
+DOMAIN,apoll.m.taobao.com,reject
+DOMAIN,app-ad.variflight.com,reject
+DOMAIN,applog.mobike.com,reject
+DOMAIN,applog.musical.ly,reject
+DOMAIN,applogapi.autohome.com.cn,reject
+DOMAIN,applogios.uc.cn,reject
+DOMAIN,appnext.hs.llnwd.net,reject
+DOMAIN,appnext-a.akamaihd.net,reject
+DOMAIN,apppv.zol.com.cn,reject
+DOMAIN,ar.umeng.com,reject
+DOMAIN,ark.letv.com,reject
+DOMAIN,asimgs.pplive.cn,reject
+DOMAIN,atm.youku.com,reject
+DOMAIN,atrace.chelaile.net.cn,reject
+DOMAIN,btrace.qq.com,reject
+DOMAIN,c1wx.lianwangtech.com,reject
+DOMAIN,cdn.adapi.fotoable.com,reject
+DOMAIN,cdn.segment.com,reject
+DOMAIN,config2.mparticle.com,reject
+DOMAIN,counter.kingsoft.com,reject
+DOMAIN,counter.ksosoft.com,reject
+DOMAIN,cwx.lianwangtech.com,reject
+DOMAIN,data.flurry.com,reject
+DOMAIN,data.mistat.xiaomi.com,reject
+DOMAIN,data.vod.itc.cn,reject
+DOMAIN,de.as.pptv.com,reject
+DOMAIN,duclick.baidu.com,reject
+DOMAIN,emma-414870e223.huodonghezi.com,reject
+DOMAIN,etl.xlmc.sandai.net,reject
+DOMAIN,g.koowo.com,reject
+DOMAIN,g3.letv.com,reject
+DOMAIN,galaxy.bjcathay.com,reject
+DOMAIN,geo2.adobe.com,reject
+DOMAIN,ggs.myzaker.com,reject
+DOMAIN,gs.getui.com,reject
+DOMAIN,h-adashx.ut.taobao.com,reject
+DOMAIN,hm.baidu.com,reject
+DOMAIN,hmma.baidu.com,reject
+DOMAIN,hui.sohu.com,reject
+DOMAIN,iad0ssl.pcauto.com.cn,reject
+DOMAIN,iad0ssl.pconline.com.cn,reject
+DOMAIN,iadmat.nosdn.127.net,reject
+DOMAIN,iadmusicmat.music.126.net,reject
+DOMAIN,iadmusicmatvideo.music.126.net,reject
+DOMAIN,ifacelog.iqiyi.com,reject
+DOMAIN,ifengad.3g.ifeng.com,reject
+DOMAIN,img.auction-ads.wpscdn.cn,reject
+DOMAIN,imgad0.pcauto.com.cn,reject
+DOMAIN,imgad0.pconline.com.cn,reject
+DOMAIN,imgadpai.thepaper.cn,reject
+DOMAIN,imp.optaim.com,reject
+DOMAIN,impservice.dictapp.youdao.com,reject
+DOMAIN,impservice.youdao.com,reject
+DOMAIN,itad.linetv.tw,reject
+DOMAIN,ivy.pchouse.com.cn,reject
+DOMAIN,iyes.youku.com,reject
+DOMAIN,ja.chushou.tv,reject
+DOMAIN,js.users.51.la,reject
+DOMAIN,kgmobilestat.kugou.com,reject
+DOMAIN,kgmobilestatbak.kugou.com,reject
+DOMAIN,log.b612kaji.com,reject
+DOMAIN,log.stat.kugou.com,reject
+DOMAIN,log.umsns.com,reject
+DOMAIN,log.v2.hunantv.com,reject
+DOMAIN,log.web.kugou.com,reject
+DOMAIN,log.ycapp.yiche.com,reject
+DOMAIN,log.yex.youdao.com,reject
+DOMAIN,logs.chelaile.net.cn,reject
+DOMAIN,log-yex.youdao.com,reject
+DOMAIN,mads.suning.com,reject
+DOMAIN,mbdlog.iqiyi.com,reject
+DOMAIN,mdrecv.app.cntvwb.cn,reject
+DOMAIN,mi.gdt.qq.com,reject
+DOMAIN,minfo.wps.cn,reject
+DOMAIN,mobad.ijinshan.com,reject
+DOMAIN,mobads.baidu.com,reject
+DOMAIN,mobads-logs.baidu.com,reject
+DOMAIN,mobilead.kuwo.cn,reject
+DOMAIN,mobileads.msn.com,reject
+DOMAIN,mobilelog.kugou.com,reject
+DOMAIN,mopnativeadv.037201.com,reject
+DOMAIN,msg.71.am,reject
+DOMAIN,msg.qy.net,reject
+DOMAIN,mtrace.qq.com,reject
+DOMAIN,n.3g.163.com,reject
+DOMAIN,n.mark.letv.com,reject
+DOMAIN,nativeadv.dftoutiao.com,reject
+DOMAIN,nbsdk-baichuan.alicdn.com,reject
+DOMAIN,newloc.map.n.shifen.com,reject
+DOMAIN,newvector.map.baidu.com,reject
+DOMAIN,nex.163.com,reject
+DOMAIN,nsclick.baidu.com,reject
+DOMAIN,o2o.api.xiaomi.com,reject
+DOMAIN,offnavi.map.baidu.com,reject
+DOMAIN,optimus-ads.amap.com,reject
+DOMAIN,oth.eve.mdt.qq.com,reject
+DOMAIN,pgdt.gtimg.cn,reject
+DOMAIN,pgdt.gtimg.com,reject
+DOMAIN,ping.chartbeat.net,reject
+DOMAIN,pingma.qq.com,reject
+DOMAIN,pingtcss.qq.com,reject
+DOMAIN,plbslog.umeng.com,reject
+DOMAIN,ps.map.baidu.com,reject
+DOMAIN,pvnapp.zol.com.cn,reject
+DOMAIN,rd.autohome.com.cn,reject
+DOMAIN,regist.fotoable.com,reject
+DOMAIN,rich.kuwo.cn,reject
+DOMAIN,rp.hpplay.cn,reject
+DOMAIN,sax.sina.com.cn,reject
+DOMAIN,saxn.sina.com.cn,reject
+DOMAIN,saxs.sina.com.cn,reject
+DOMAIN,sdapprecv.app.cntvwb.cn,reject
+DOMAIN,splashqqlive.gtimg.com,reject
+DOMAIN,stat.10jqka.com.cn,reject
+DOMAIN,static.jpush.cn,reject
+DOMAIN,static.ws.126.net,reject
+DOMAIN,stats.umsns.com,reject
+DOMAIN,sugar.zhihu.com,reject
+DOMAIN,sv.map.baidu.com,reject
+DOMAIN,t7z.cupid.iqiyi.com,reject
+DOMAIN,t-ads.xiaohongshu.com,reject
+DOMAIN,tajs.qq.com,reject
+DOMAIN,track.58.com,reject
+DOMAIN,track.sohu.com,reject
+DOMAIN,track.tiara.daum.net,reject
+DOMAIN,track.tiara.kakao.com,reject
+DOMAIN,track.toutiao.com,reject
+DOMAIN,track.uc.cn,reject
+DOMAIN,trackapp.guahao.cn,reject
+DOMAIN,tracking.intl.miui.com,reject
+DOMAIN,tracklog.58.com,reject
+DOMAIN,traffic.mogujie.com,reject
+DOMAIN,tunion-api.m.taobao.com,reject
+DOMAIN,u1.img.mobile.sina.cn,reject
+DOMAIN,ulog.imap.baidu.com,reject
+DOMAIN,ulogs.umeng.com,reject
+DOMAIN,ulogs.umengcloud.com,reject
+DOMAIN,ups.ksmobile.net,reject
+DOMAIN,v1.log.moji.com,reject
+DOMAIN,v2.log.hunantv.com,reject
+DOMAIN,v2.reachmax.cn,reject
+DOMAIN,vdapprecv.app.cntvwb.cn,reject
+DOMAIN,wmlog.meituan.com,reject
+DOMAIN,wn.pos.baidu.com,reject
+DOMAIN,ws.ksmobile.net,reject
+DOMAIN,wxsnsdy.wxs.qq.com,reject
+DOMAIN,wxsnsdythumb.wxs.qq.com,reject
+DOMAIN,xlog.snssdk.com,reject
+DOMAIN,xlog-va.byteoversea.com,reject
+DOMAIN,yt-adp.nosdn.127.net,reject
+DOMAIN-keyword,adservice,reject
+DOMAIN-keyword,analysis,reject
+DOMAIN-keyword,analytics,reject
+DOMAIN-keyword,epochtimes,reject
+DOMAIN-suffix,17gouwuba.com,reject
+DOMAIN-suffix,186078.com,reject
+DOMAIN-suffix,189zj.cn,reject
+DOMAIN-suffix,285680.com,reject
+DOMAIN-suffix,2o7.net,reject
+DOMAIN-suffix,3721zh.com,reject
+DOMAIN-suffix,4009997658.com,reject
+DOMAIN-suffix,42trck.com,reject
+DOMAIN-suffix,4336wang.cn,reject
+DOMAIN-suffix,51.la,reject
+DOMAIN-suffix,51chumoping.com,reject
+DOMAIN-suffix,51mld.cn,reject
+DOMAIN-suffix,51mypc.cn,reject
+DOMAIN-suffix,58mingri.cn,reject
+DOMAIN-suffix,58mingtian.cn,reject
+DOMAIN-suffix,5vl58stm.com,reject
+DOMAIN-suffix,6d63d3.com,reject
+DOMAIN-suffix,7gg.cc,reject
+DOMAIN-suffix,881903.com,reject
+DOMAIN-suffix,91veg.com,reject
+DOMAIN-suffix,9s6q.cn,reject
+DOMAIN-suffix,abbyychina.com,reject
+DOMAIN-suffix,aboluowang.com,reject
+DOMAIN-suffix,ad.daum.net,reject
+DOMAIN-suffix,ad.intl.xiaomi.com,reject
+DOMAIN-suffix,ad.sohu.com,reject
+DOMAIN-suffix,ad.xiaomi.com,reject
+DOMAIN-suffix,adcolony.com,reject
+DOMAIN-suffix,adform.net,reject
+DOMAIN-suffix,adinall.com,reject
+DOMAIN-suffix,adinfuse.com,reject
+DOMAIN-suffix,adjust.com,reject
+DOMAIN-suffix,adjust.io,reject
+DOMAIN-suffix,adlefee.com,reject
+DOMAIN-suffix,admarvel.com,reject
+DOMAIN-suffix,admaster.com.cn,reject
+DOMAIN-suffix,admob.com,reject
+DOMAIN-suffix,admob.xiaomi.com,reject
+DOMAIN-suffix,adnxs.com,reject
+DOMAIN-suffix,adnyg.com,reject
+DOMAIN-suffix,ads.internal.unity3d.com,reject
+DOMAIN-suffix,ads.prd.ie.internal.unity3d.com,reject
+DOMAIN-suffix,ads.sohu.com,reject
+DOMAIN-suffix,adsame.com,reject
+DOMAIN-suffix,adsensor.org,reject
+DOMAIN-suffix,ads-twitter.com,reject
+DOMAIN-suffix,adtarget.tech,reject
+DOMAIN-suffix,adthor.com,reject
+DOMAIN-suffix,advertising.com,reject
+DOMAIN-suffix,adview.cn,reject
+DOMAIN-suffix,adwhirl.com,reject
+DOMAIN-suffix,adxpansion.com,reject
+DOMAIN-suffix,aerserv.com,reject
+DOMAIN-suffix,aiclk.com,reject
+DOMAIN-suffix,akuai.top,reject
+DOMAIN-suffix,alipaylog.com,reject
+DOMAIN-suffix,amazon-adsystem.com,reject
+DOMAIN-suffix,amobee.com,reject
+DOMAIN-suffix,analysys.cn,reject
+DOMAIN-suffix,api.map.baidu.com,reject
+DOMAIN-suffix,app-adforce.jp,reject
+DOMAIN-suffix,appadhoc.com,reject
+DOMAIN-suffix,appads.com,reject
+DOMAIN-suffix,appcpi.net,reject
+DOMAIN-suffix,appier.net,reject
+DOMAIN-suffix,applift.com,reject
+DOMAIN-suffix,applovin.com,reject
+DOMAIN-suffix,applvn.com,reject
+DOMAIN-suffix,appsflyer.com,reject
+DOMAIN-suffix,apptentive.com,reject
+DOMAIN-suffix,apsalar.com,reject
+DOMAIN-suffix,apxadtracking.net,reject
+DOMAIN-suffix,ashifen.com,reject
+DOMAIN-suffix,atm.youku.com,reject
+DOMAIN-suffix,atplay.cn,reject
+DOMAIN-suffix,aty.sohu.com,reject
+DOMAIN-suffix,axonix.com,reject
+DOMAIN-suffix,baidustatic.com,reject
+DOMAIN-suffix,baiwanchuangyi.com,reject
+DOMAIN-suffix,bannedbook.org,reject
+DOMAIN-suffix,bartender.cc,reject
+DOMAIN-suffix,bayimob.com,reject
+DOMAIN-suffix,beacon.qq.com,reject
+DOMAIN-suffix,beacon.sina.com.cn,reject
+DOMAIN-suffix,beerto.cn,reject
+DOMAIN-suffix,beilamusi.com,reject
+DOMAIN-suffix,benshiw.net,reject
+DOMAIN-suffix,betterzip.net,reject
+DOMAIN-suffix,beyondcompare.cc,reject
+DOMAIN-suffix,bianxianmao.com,reject
+DOMAIN-suffix,bingdianhuanyuan.cn,reject
+DOMAIN-suffix,bldaily.com,reject
+DOMAIN-suffix,bryonypie.com,reject
+DOMAIN-suffix,bugly.qq.com,reject
+DOMAIN-suffix,bulldogcpi.com,reject
+DOMAIN-suffix,cb.baidu.com,reject
+DOMAIN-suffix,chemdraw.com.cn,reject
+DOMAIN-suffix,china21.org,reject
+DOMAIN-suffix,chinaaffairs.org,reject
+DOMAIN-suffix,cishantao.com,reject
+DOMAIN-suffix,cjmakeding.com,reject
+DOMAIN-suffix,cjmkt.com,reject
+DOMAIN-suffix,clotfun.mobi,reject
+DOMAIN-suffix,clotfun.online,reject
+DOMAIN-suffix,cloudmobi.net,reject
+DOMAIN-suffix,cnzz.com,reject
+DOMAIN-suffix,cocounion.com,reject
+DOMAIN-suffix,codesoftchina.com,reject
+DOMAIN-suffix,conviva.com,reject
+DOMAIN-suffix,coreldrawchina.com,reject
+DOMAIN-suffix,cpro.baidu.com,reject
+DOMAIN-suffix,crossoverchina.com,reject
+DOMAIN-suffix,crwdcntrl.net,reject
+DOMAIN-suffix,cszlks.com,reject
+DOMAIN-suffix,ctrmi.com,reject
+DOMAIN-suffix,cudaojia.com,reject
+DOMAIN-suffix,cupid.iqiyi.com,reject
+DOMAIN-suffix,da.hunantv.com,reject
+DOMAIN-suffix,da.mgtv.com,reject
+DOMAIN-suffix,dafapromo.com,reject
+DOMAIN-suffix,daitdai.com,reject
+DOMAIN-suffix,dajiyuan.com,reject
+DOMAIN-suffix,dalianmeng.org,reject
+DOMAIN-suffix,data.mistat.xiaomi.com,reject
+DOMAIN-suffix,deliver.ifeng.com,reject
+DOMAIN-suffix,dkn.tv,reject
+DOMAIN-suffix,dongtaiwang.com,reject
+DOMAIN-suffix,doubleclick.net,reject
+DOMAIN-suffix,dpm.demdex.net,reject
+DOMAIN-suffix,dsaeerf.com,reject
+DOMAIN-suffix,dtscout.com,reject
+DOMAIN-suffix,dugesheying.com,reject
+DOMAIN-suffix,dv8c1t.cn,reject
+DOMAIN-suffix,e.qq.com,reject
+DOMAIN-suffix,easyrecoverychina.com,reject
+DOMAIN-suffix,echatu.com,reject
+DOMAIN-suffix,ediuschina.com,reject
+DOMAIN-suffix,edoors.com,reject
+DOMAIN-suffix,epochweekly.com,reject
+DOMAIN-suffix,erdoscs.com,reject
+DOMAIN-suffix,eum-appdynamics.com,reject
+DOMAIN-suffix,exoclick.com,reject
+DOMAIN-suffix,exosrv.com,reject
+DOMAIN-suffix,falundafa.org,reject
+DOMAIN-suffix,fan-yong.com,reject
+DOMAIN-suffix,feih.com.cn,reject
+DOMAIN-suffix,fgmtv.org,reject
+DOMAIN-suffix,fjlqqc.com,reject
+DOMAIN-suffix,fkku194.com,reject
+DOMAIN-suffix,flash.cn,reject
+DOMAIN-suffix,flstudiochina.com,reject
+DOMAIN-suffix,flurry.com,reject
+DOMAIN-suffix,formysql.com,reject
+DOMAIN-suffix,freedrive.cn,reject
+DOMAIN-suffix,fwmrm.net,reject
+DOMAIN-suffix,gardennetworks.com,reject
+DOMAIN-suffix,gclick.cn,reject
+DOMAIN-suffix,gdt.qq.com,reject
+DOMAIN-suffix,go2cloud.org,reject
+DOMAIN-suffix,gongyiluntan.org,reject
+DOMAIN-suffix,googleadservices.com,reject
+DOMAIN-suffix,googleadsserving.cn,reject
+DOMAIN-suffix,googlesyndication.com,reject
+DOMAIN-suffix,googletagmanager.com,reject
+DOMAIN-suffix,googletagservices.com,reject
+DOMAIN-suffix,goufanli100.com,reject
+DOMAIN-suffix,goupaoerdai.com,reject
+DOMAIN-suffix,gouwubang.com,reject
+DOMAIN-suffix,gpass1.com,reject
+DOMAIN-suffix,growingio.com,reject
+DOMAIN-suffix,guitarpro.cc,reject
+DOMAIN-suffix,gzxnlk.com,reject
+DOMAIN-suffix,haloapps.com,reject
+DOMAIN-suffix,haoshengtoys.com,reject
+DOMAIN-suffix,hrichina.org,reject
+DOMAIN-suffix,huanghuagang.org,reject
+DOMAIN-suffix,huishenghuiying.com.cn,reject
+DOMAIN-suffix,hypersnap.net,reject
+DOMAIN-suffix,iadsdk.apple.com,reject
+DOMAIN-suffix,ichaosheng.com,reject
+DOMAIN-suffix,iconworkshop.cn,reject
+DOMAIN-suffix,idealads.net,reject
+DOMAIN-suffix,imindmap.cc,reject
+DOMAIN-suffix,inmobi.cn,reject
+DOMAIN-suffix,inmobi.com,reject
+DOMAIN-suffix,inmobi.net,reject
+DOMAIN-suffix,inmobicdn.cn,reject
+DOMAIN-suffix,inner-active.mobi,reject
+DOMAIN-suffix,internetfreedom.org,reject
+DOMAIN-suffix,ironsrc.com,reject
+DOMAIN-suffix,irs01.com,reject
+DOMAIN-suffix,ishop789.com,reject
+DOMAIN-suffix,iskyworker.com,reject
+DOMAIN-suffix,jdkic.com,reject
+DOMAIN-suffix,jihehuaban.com.cn,reject
+DOMAIN-suffix,jiubuhua.com,reject
+DOMAIN-suffix,jwg365.cn,reject
+DOMAIN-suffix,kanzhongguo.com,reject
+DOMAIN-suffix,kawo77.com,reject
+DOMAIN-suffix,kejet.net,reject
+DOMAIN-suffix,keyshot.cc,reject
+DOMAIN-suffix,kingdeecn.cn,reject
+DOMAIN-suffix,kochava.com,reject
+DOMAIN-suffix,kuaizip.com,reject
+DOMAIN-suffix,kualianyingxiao.cn,reject
+DOMAIN-suffix,kumihua.com,reject
+DOMAIN-suffix,l.qq.com,reject
+DOMAIN-suffix,lagranepoca.com,reject
+DOMAIN-suffix,leadboltmobile.net,reject
+DOMAIN-suffix,lenzmx.com,reject
+DOMAIN-suffix,liveadvert.com,reject
+DOMAIN-suffix,lnk0.com,reject
+DOMAIN-suffix,lnk8.cn,reject
+DOMAIN-suffix,localytics.com,reject
+DOMAIN-suffix,log.hunantv.com,reject
+DOMAIN-suffix,logoshejishi.com,reject
+DOMAIN-suffix,ltheanine.cn,reject
+DOMAIN-suffix,mackeeper.com,reject
+DOMAIN-suffix,maipinshangmao.com,reject
+DOMAIN-suffix,mairuan.cn,reject
+DOMAIN-suffix,mairuan.com,reject
+DOMAIN-suffix,mairuan.com.cn,reject
+DOMAIN-suffix,mairuan.net,reject
+DOMAIN-suffix,mairuanwang.com,reject
+DOMAIN-suffix,makeding.com,reject
+DOMAIN-suffix,mathtype.cn,reject
+DOMAIN-suffix,mdfull.com,reject
+DOMAIN-suffix,measurementapi.com,reject
+DOMAIN-suffix,medialytics.com,reject
+DOMAIN-suffix,mh4u.org,reject
+DOMAIN-suffix,mhradio.org,reject
+DOMAIN-suffix,miaozhen.com,reject
+DOMAIN-suffix,mindmanager.cc,reject
+DOMAIN-suffix,mindmapper.cc,reject
+DOMAIN-suffix,minghui.org,reject
+DOMAIN-suffix,minisplat.cn,reject
+DOMAIN-suffix,mkitgfs.com,reject
+DOMAIN-suffix,mlnbike.com,reject
+DOMAIN-suffix,mmstat.com,reject
+DOMAIN-suffix,moatads.com,reject
+DOMAIN-suffix,mobclix.com,reject
+DOMAIN-suffix,mobileapptracking.com,reject
+DOMAIN-suffix,mobjump.com,reject
+DOMAIN-suffix,mopub.com,reject
+DOMAIN-suffix,mycleanmymac.com,reject
+DOMAIN-suffix,nbkbgd.cn,reject
+DOMAIN-suffix,newapi.com,reject
+DOMAIN-suffix,newrealmstudios.ca,reject
+DOMAIN-suffix,newvector.map.baidu.com,reject
+DOMAIN-suffix,nicelabel.cc,reject
+DOMAIN-suffix,ntdtv.com,reject
+DOMAIN-suffix,ntfsformac.cc,reject
+DOMAIN-suffix,ntfsformac.cn,reject
+DOMAIN-suffix,offnavi.map.baidu.com,reject
+DOMAIN-suffix,ogate.org,reject
+DOMAIN-suffix,omtrdc.net,reject
+DOMAIN-suffix,open.com.hk,reject
+DOMAIN-suffix,openx.net,reject
+DOMAIN-suffix,organcare.org.tw,reject
+DOMAIN-suffix,overturechina.com,reject
+DOMAIN-suffix,passwordrecovery.cn,reject
+DOMAIN-suffix,pdfexpert.cc,reject
+DOMAIN-suffix,pingjs.qq.com,reject
+DOMAIN-suffix,pingma.qq.com,reject
+DOMAIN-suffix,pinzhitmall.com,reject
+DOMAIN-suffix,poppyta.com,reject
+DOMAIN-suffix,pos.baidu.com,reject
+DOMAIN-suffix,ps.map.baidu.com,reject
+DOMAIN-suffix,qchannel01.cn,reject
+DOMAIN-suffix,qianchuanghr.com,reject
+DOMAIN-suffix,qichexin.com,reject
+DOMAIN-suffix,qinchugudao.com,reject
+DOMAIN-suffix,quanliyouxi.cn,reject
+DOMAIN-suffix,quantserve.com,reject
+DOMAIN-suffix,qutaobi.com,reject
+DOMAIN-suffix,qxbbs.org,reject
+DOMAIN-suffix,rayjump.com,reject
+DOMAIN-suffix,renminbao.com,reject
+DOMAIN-suffix,rqd.qq.com,reject
+DOMAIN-suffix,rubiconproject.com,reject
+DOMAIN-suffix,ry51w.cn,reject
+DOMAIN-suffix,scorecardresearch.com,reject
+DOMAIN-suffix,sdkclick.com,reject
+DOMAIN-suffix,secretchina.com,reject
+DOMAIN-suffix,serving-sys.com,reject
+DOMAIN-suffix,sg536.cn,reject
+DOMAIN-suffix,shankejingling.com,reject
+DOMAIN-suffix,shenyun.com,reject
+DOMAIN-suffix,shenyunperformingarts.org,reject
+DOMAIN-suffix,shenzhoufilm.com,reject
+DOMAIN-suffix,shifen.com,reject
+DOMAIN-suffix,shuzilm.cn,reject
+DOMAIN-suffix,sifubo.cn,reject
+DOMAIN-suffix,sifuce.cn,reject
+DOMAIN-suffix,sifuda.cn,reject
+DOMAIN-suffix,sifufu.cn,reject
+DOMAIN-suffix,sifuge.cn,reject
+DOMAIN-suffix,sifugu.cn,reject
+DOMAIN-suffix,sifuhe.cn,reject
+DOMAIN-suffix,sifuhu.cn,reject
+DOMAIN-suffix,sifuji.cn,reject
+DOMAIN-suffix,sifuka.cn,reject
+DOMAIN-suffix,smaato.net,reject
+DOMAIN-suffix,smartadserver.com,reject
+DOMAIN-suffix,smartnews-ads.com,reject
+DOMAIN-suffix,smgru.net,reject
+DOMAIN-suffix,soundofhope.org,reject
+DOMAIN-suffix,sv.map.baidu.com,reject
+DOMAIN-suffix,tagtic.cn,reject
+DOMAIN-suffix,talkingdata.com,reject
+DOMAIN-suffix,tanv.com,reject
+DOMAIN-suffix,tanx.com,reject
+DOMAIN-suffix,taoggou.com,reject
+DOMAIN-suffix,tapjoy.com,reject
+DOMAIN-suffix,tcxshop.com,reject
+DOMAIN-suffix,theepochtimes.com,reject
+DOMAIN-suffix,tiandixing.org,reject
+DOMAIN-suffix,tjqonline.cn,reject
+DOMAIN-suffix,topitme.com,reject
+DOMAIN-suffix,track.xiachufang.com,reject
+DOMAIN-suffix,tracking.miui.com,reject
+DOMAIN-suffix,trafficjunky.net,reject
+DOMAIN-suffix,tt3sm4.cn,reject
+DOMAIN-suffix,tuanxue360.net,reject
+DOMAIN-suffix,tuia.cn,reject
+DOMAIN-suffix,tuidang.org,reject
+DOMAIN-suffix,tuipenguin.com,reject
+DOMAIN-suffix,tuitiger.com,reject
+DOMAIN-suffix,turn.com,reject
+DOMAIN-suffix,udrig.com,reject
+DOMAIN-suffix,ulog.imap.baidu.com,reject
+DOMAIN-suffix,ultraiso.net,reject
+DOMAIN-suffix,umeng.com,reject
+DOMAIN-suffix,umengcloud.com,reject
+DOMAIN-suffix,union.baidu.com,reject
+DOMAIN-suffix,unityads.unity3d.com,reject
+DOMAIN-suffix,urbanairship.com,reject
+DOMAIN-suffix,uri6.com,reject
+DOMAIN-suffix,vegaschina.cn,reject
+DOMAIN-suffix,velkaepocha.sk,reject
+DOMAIN-suffix,vidoomy.com,reject
+DOMAIN-suffix,voiceads.cn,reject
+DOMAIN-suffix,voicefive.com,reject
+DOMAIN-suffix,vungle.com,reject
+DOMAIN-suffix,watchinese.com,reject
+DOMAIN-suffix,webp2p.letv.com,reject
+DOMAIN-suffix,websd8.com,reject
+DOMAIN-suffix,wedolook.com,reject
+DOMAIN-suffix,wixsite.com,reject
+DOMAIN-suffix,wujie.net,reject
+DOMAIN-suffix,wujieliulan.com,reject
+DOMAIN-suffix,wx16999.com,reject
+DOMAIN-suffix,xdrig.com,reject
+DOMAIN-suffix,xiaohuau.xyz,reject
+DOMAIN-suffix,xinsheng.net,reject
+DOMAIN-suffix,xmindchina.net,reject
+DOMAIN-suffix,xshellcn.com,reject
+DOMAIN-suffix,yihuifu.cn,reject
+DOMAIN-suffix,yinmong.com,reject
+DOMAIN-suffix,yiqifa.com,reject
+DOMAIN-suffix,yitaopt.com,reject
+DOMAIN-suffix,yjqiqi.com,reject
+DOMAIN-suffix,yuanchengxiezuo.com,reject
+DOMAIN-suffix,yukhj.com,reject
+DOMAIN-suffix,zbrushcn.com,reject
+DOMAIN-suffix,zhaozecheng.cn,reject
+DOMAIN-suffix,zhengjian.org,reject
+DOMAIN-suffix,zhenxinet.com,reject
+DOMAIN-suffix,zhuichaguoji.org,reject
+DOMAIN-suffix,zhzzx.com,reject
+DOMAIN-suffix,zlne800.com,reject
+DOMAIN-suffix,zunmi.cn,reject
+DOMAIN-suffix,zzd6.com,reject
+ip-cidr,10.72.25.0/24,reject
+ip-cidr,101.227.200.11/32,reject
+ip-cidr,101.227.200.28/32,reject
+ip-cidr,101.227.97.240/32,reject
+ip-cidr,103.49.209.27/32,reject
+ip-cidr,106.75.231.48/32,reject
+ip-cidr,111.175.220.163/32,reject
+ip-cidr,111.175.220.164/32,reject
+ip-cidr,114.247.28.96/32,reject
+ip-cidr,115.182.16.79/32,reject
+ip-cidr,118.144.88.126/32,reject
+ip-cidr,118.144.88.215/32,reject
+ip-cidr,118.144.88.216/32,reject
+ip-cidr,119.4.249.166/32,reject
+ip-cidr,120.76.189.132/32,reject
+ip-cidr,123.56.152.96/32,reject
+ip-cidr,124.14.21.147/32,reject
+ip-cidr,124.14.21.151/32,reject
+ip-cidr,124.192.153.42/32,reject
+ip-cidr,124.232.160.178/32,reject
+ip-cidr,175.6.223.15/32,reject
+ip-cidr,180.166.52.24/32,reject
+ip-cidr,183.59.53.237/32,reject
+ip-cidr,211.161.101.106/32,reject
+ip-cidr,218.93.127.37/32,reject
+ip-cidr,220.115.251.25/32,reject
+ip-cidr,220.196.52.141/32,reject
+ip-cidr,221.179.131.72/32,reject
+ip-cidr,221.179.140.145/32,reject
+ip-cidr,221.228.17.152/32,reject
+ip-cidr,221.231.6.79/32,reject
+ip-cidr,221.6.4.148/32,reject
+ip-cidr,222.186.61.91/32,reject
+ip-cidr,222.186.61.95/32,reject
+ip-cidr,222.186.61.96/32,reject
+ip-cidr,222.186.61.97/32,reject
+ip-cidr,222.73.156.235/32,reject
+ip-cidr,39.107.15.115/32,reject
+ip-cidr,47.89.59.182/32,reject
+ip-cidr,61.160.200.223/32,reject
+ip-cidr,61.160.200.242/32,reject
+ip-cidr,61.160.200.252/32,reject
+ip-cidr,61.174.50.214/32,reject
