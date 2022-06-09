@@ -259,7 +259,7 @@ DOMAIN-suffix,googletagmanager.com,Proxy
 DOMAIN-suffix,googletagservices.com,Proxy
 DOMAIN-suffix,googlevideo.com,Proxy
 # > Chromecast with Google TV
-DOMAIN-KEYWORD,pa.google,Chromecast
+DOMAIN-KEYWORD,pa.google,Proxy
 # > Google Drive
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,Proxy
 USER-AGENT,Google.Drive*,Proxy
@@ -274,7 +274,7 @@ DOMAIN-KEYWORD,google.,Proxy
 DOMAIN-suffix,google.com,Proxy
 # > Google Voice
 # 如果你的代理服务器不支持 udp-relay 可尝试 DIRECT 以免被 REJECT（部分 Google 服务器还可直连）
-DOMAIN,lens.l.google.com,Google Voice
+DOMAIN,lens.l.google.com,Proxy
 # > Apple
 DOMAIN,testflight.apple.com,Proxy
 # > Automattic
