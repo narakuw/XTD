@@ -2,330 +2,209 @@
 
 # (Live)
 # > Twitch
-DOMAIN-SUFFIX,ext-twitch.tv,Streaming
-DOMAIN-SUFFIX,jtvnw.net,Streaming
-DOMAIN-SUFFIX,ttvnw.net,Streaming
-DOMAIN-SUFFIX,twitch.tv,Streaming
-DOMAIN-SUFFIX,twitchcdn.net,Streaming
-DOMAIN-SUFFIX,twitch-ext.rootonline.de,Streaming
+DOMAIN-SUFFIX,ext-twitch.tv,Proxy
+DOMAIN-SUFFIX,jtvnw.net,Proxy
+DOMAIN-SUFFIX,ttvnw.net,Proxy
+DOMAIN-SUFFIX,twitch.tv,Proxy
+DOMAIN-SUFFIX,twitchcdn.net,Proxy
+DOMAIN-SUFFIX,twitch-ext.rootonline.de,Proxy
 
 # (Music)
-# > Deezer
-USER-AGENT,Deezer*,Streaming
-DOMAIN-SUFFIX,deezer.com,Streaming
-DOMAIN-SUFFIX,dzcdn.net,Streaming
-# > JOOX
-USER-AGENT,JOOX*,Streaming
-USER-AGENT,WeMusic*,Streaming
-DOMAIN-SUFFIX,joox.com,Streaming
-DOMAIN-KEYWORD,jooxweb-api,Streaming
-# > KKBOX
-DOMAIN-SUFFIX,kkbox.com,Streaming
-DOMAIN-SUFFIX,kkbox.com.tw,Streaming
-DOMAIN-SUFFIX,kfs.io,Streaming
-# > Pandora
-USER-AGENT,Pandora*,Streaming
-DOMAIN-SUFFIX,pandora.com,Streaming
-# > SoundCloud
-USER-AGENT,SoundCloud*,Streaming
-DOMAIN-SUFFIX,p-cdn.us,Streaming
-DOMAIN-SUFFIX,sndcdn.com,Streaming
-DOMAIN-SUFFIX,soundcloud.com,Streaming
 # > Spotify
-USER-AGENT,Spotify*,Streaming
-DOMAIN-SUFFIX,pscdn.co,Streaming
-DOMAIN-SUFFIX,scdn.co,Streaming
-DOMAIN-SUFFIX,spotify.com,Streaming
-DOMAIN-SUFFIX,spoti.fi,Streaming
-DOMAIN-KEYWORD,spotify.com,Streaming
-DOMAIN-KEYWORD,-spotify-com,Streaming
-# > TIDAL
-USER-AGENT,TIDAL*,Streaming
-DOMAIN-SUFFIX,tidal.com,Streaming
+USER-AGENT,Spotify*,Proxy
+DOMAIN-SUFFIX,pscdn.co,Proxy
+DOMAIN-SUFFIX,scdn.co,Proxy
+DOMAIN-SUFFIX,spotify.com,Proxy
+DOMAIN-SUFFIX,spoti.fi,Proxy
+DOMAIN-KEYWORD,spotify.com,Proxy
+DOMAIN-KEYWORD,-spotify-com,Proxy
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,Streaming
-USER-AGENT,YouTubeMusic*,Streaming
+USER-AGENT,com.google.ios.youtubemusic*,Proxy
+USER-AGENT,YouTubeMusic*,Proxy
 
 # (Podcast)
 # > Himalaya
-USER-AGENT,Himalaya*,Streaming
-DOMAIN-SUFFIX,himalaya.com,Streaming
-# > Overcast
-USER-AGENT,Overcast*,Streaming
-DOMAIN-SUFFIX,overcast.fm,Streaming
+USER-AGENT,Himalaya*,DIRECT
+DOMAIN-SUFFIX,himalaya.com,DIRECT
 
 # (Video)
 # > AbemaTV
-USER-AGENT,AbemaTV*,Streaming
-DOMAIN-SUFFIX,abema.io,Streaming
-DOMAIN-SUFFIX,abema.tv,Streaming
-DOMAIN-SUFFIX,ameba.jp,Streaming
-DOMAIN-SUFFIX,hayabusa.io,Streaming
-DOMAIN-KEYWORD,abematv.akamaized.net,Streaming
-# > All 4
-USER-AGENT,All4*,Streaming
-DOMAIN-SUFFIX,c4assets.com,Streaming
-DOMAIN-SUFFIX,channel4.com,Streaming
+USER-AGENT,AbemaTV*,Proxy
+DOMAIN-SUFFIX,abema.io,Proxy
+DOMAIN-SUFFIX,abema.tv,Proxy
+DOMAIN-SUFFIX,ameba.jp,Proxy
+DOMAIN-SUFFIX,hayabusa.io,Proxy
+DOMAIN-KEYWORD,abematv.akamaized.net,Proxy
+
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,Streaming
-USER-AGENT,Prime%20Video*,Streaming
-DOMAIN-SUFFIX,aiv-cdn.net,Streaming
-DOMAIN-SUFFIX,aiv-delivery.net,Streaming
-DOMAIN-SUFFIX,amazonvideo.com,Streaming
-DOMAIN-SUFFIX,media-amazon.com,Streaming
-DOMAIN-SUFFIX,primevideo.com,Streaming
-DOMAIN-SUFFIX,pv-cdn.net,Streaming
-DOMAIN,atv-ps.amazon.com,Streaming
-DOMAIN,fls-na.amazon.com,Streaming
-DOMAIN,avodmp4s3ww-a.akamaihd.net,Streaming
-DOMAIN,d25xi40x97liuc.cloudfront.net,Streaming
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming
-DOMAIN,d22qjgkvxw22r6.cloudfront.net,Streaming
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming
-DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming
-# DOMAIN,www.amazon.com,Streaming
-DOMAIN-KEYWORD,avoddashs,Streaming
+USER-AGENT,InstantVideo.US*,Proxy
+USER-AGENT,Prime%20Video*,Proxy
+DOMAIN-SUFFIX,aiv-cdn.net,Proxy
+DOMAIN-SUFFIX,aiv-delivery.net,Proxy
+DOMAIN-SUFFIX,amazonvideo.com,Proxy
+DOMAIN-SUFFIX,media-amazon.com,Proxy
+DOMAIN-SUFFIX,primevideo.com,Proxy
+DOMAIN-SUFFIX,pv-cdn.net,Proxy
+DOMAIN,atv-ps.amazon.com,Proxy
+DOMAIN,fls-na.amazon.com,Proxy
+DOMAIN,avodmp4s3ww-a.akamaihd.net,Proxy
+DOMAIN,d25xi40x97liuc.cloudfront.net,Proxy
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,Proxy
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,Proxy
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,Proxy
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Proxy
+DOMAIN,d27xxe7juh1us6.cloudfront.net,Proxy
+DOMAIN-SUFFIX,amazon.com,Proxy
+DOMAIN-KEYWORD,avoddashs,Proxy
 # > Apple Music TV
-DOMAIN,tv.applemusic.com,Streaming
+DOMAIN,tv.applemusic.com,Proxy
 # > Apple TV
-DOMAIN,linear.tv.apple.com,Streaming
-DOMAIN,play-edge.itunes.apple.com,Streaming
-DOMAIN,uts-api.itunes.apple.com,Streaming
-# > Bahamut
-USER-AGENT,Anime*,Streaming
-DOMAIN-SUFFIX,bahamut.com.tw,Streaming
-DOMAIN-SUFFIX,gamer.com.tw,Streaming
-DOMAIN,bahamut.akamaized.net,Streaming
-DOMAIN,gamer-cds.cdn.hinet.net,Streaming
-DOMAIN,gamer2-cds.cdn.hinet.net,Streaming
-# > BBC iPlayer
-USER-AGENT,BBCiPlayer*,Streaming
-DOMAIN-SUFFIX,bbc.co.uk,Streaming
-DOMAIN-SUFFIX,bbci.co.uk,Streaming
-DOMAIN-KEYWORD,bbcfmt,Streaming
-DOMAIN-KEYWORD,uk-live,Streaming
-# > bilibili Intl
-DOMAIN-SUFFIX,biliintl.com,Streaming
-DOMAIN,apm-misaka.biliapi.net,Streaming
-DOMAIN,p.bstarstatic.com,Streaming
-DOMAIN,p-bstarstatic.akamaized.net,Streaming
-DOMAIN,upos-bstar-mirrorakam.akamaized.net,Streaming
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net,Streaming
-# > DAZN
-USER-AGENT,DAZN*,Streaming
-DOMAIN-SUFFIX,dazn.com,Streaming
-DOMAIN-SUFFIX,dazn-api.com,Streaming
-DOMAIN-SUFFIX,dazndn.com,Streaming
-DOMAIN-SUFFIX,indazn.com,Streaming
-DOMAIN,d151l6v8er5bdm.cloudfront.net,Streaming
-DOMAIN-KEYWORD,voddazn,Streaming
+DOMAIN,linear.tv.apple.com,Proxy
+DOMAIN,play-edge.itunes.apple.com,Proxy
+DOMAIN,uts-api.itunes.apple.com,Proxy
 # > discovery+
-USER-AGENT,DPlus*,Streaming
-USER-AGENT,discovery+*,Streaming
-DOMAIN-SUFFIX,disco-api.com,Streaming
-DOMAIN-SUFFIX,discoveryplus.co.uk,Streaming
-DOMAIN-SUFFIX,discoveryplus.com,Streaming
-DOMAIN-SUFFIX,discoveryplus.in,Streaming
-DOMAIN-SUFFIX,dnitv.com,Streaming
-# DOMAIN,go-prod-vz.akamaized.net,Streaming
-DOMAIN,x-default-stgec.uplynk.com,Streaming
-DOMAIN-KEYWORD,discovery.uplynk.com,Streaming
+USER-AGENT,DPlus*,Proxy
+USER-AGENT,discovery+*,Proxy
+DOMAIN-SUFFIX,disco-api.com,Proxy
+DOMAIN-SUFFIX,discoveryplus.co.uk,Proxy
+DOMAIN-SUFFIX,discoveryplus.com,Proxy
+DOMAIN-SUFFIX,discoveryplus.in,Proxy
+DOMAIN-SUFFIX,dnitv.com,Proxy
+# DOMAIN,go-prod-vz.akamaized.net,Proxy
+DOMAIN,x-default-stgec.uplynk.com,Proxy
+DOMAIN-KEYWORD,discovery.uplynk.com,Proxy
 # > Disney+
-USER-AGENT,Disney+*,Streaming
-DOMAIN-SUFFIX,bamgrid.com,Streaming
-DOMAIN-SUFFIX,disneyplus.com,Streaming
-DOMAIN-SUFFIX,disney-plus.net,Streaming
-DOMAIN-SUFFIX,disneystreaming.com,Streaming
-DOMAIN-SUFFIX,dssott.com,Streaming
-DOMAIN,cdn.registerdisney.go.com,Streaming
+USER-AGENT,Disney+*,Proxy
+DOMAIN-SUFFIX,bamgrid.com,Proxy
+DOMAIN-SUFFIX,disneyplus.com,Proxy
+DOMAIN-SUFFIX,disney-plus.net,Proxy
+DOMAIN-SUFFIX,disneystreaming.com,Proxy
+DOMAIN-SUFFIX,dssott.com,Proxy
+DOMAIN,cdn.registerdisney.go.com,Proxy
 # > DMM
-DOMAIN-SUFFIX,dmm.co.jp,Streaming
-DOMAIN-SUFFIX,dmm.com,Streaming
-DOMAIN-SUFFIX,dmm-extension.com,Streaming
-# > encoreTVB
-USER-AGENT,encoreTVB*,Streaming
-DOMAIN-SUFFIX,encoretvb.com,Streaming
-DOMAIN,edge.api.brightcove.com,Streaming
-DOMAIN,bcbolt446c5271-a.akamaihd.net,Streaming
+DOMAIN-SUFFIX,dmm.co.jp,Proxy
+DOMAIN-SUFFIX,dmm.com,Proxy
+DOMAIN-SUFFIX,dmm-extension.com,Proxy
 # > HBO NOW & Max
-USER-AGENT,HBO%20NOW*,Streaming
-DOMAIN-SUFFIX,hbo.com,Streaming
-DOMAIN-SUFFIX,hbogo.com,Streaming
-DOMAIN-SUFFIX,hbonow.com,Streaming
-USER-AGENT,HBOMAX*,Streaming
-DOMAIN-SUFFIX,hbomax.com,Streaming
-DOMAIN-SUFFIX,hbomaxcdn.com,Streaming
+USER-AGENT,HBO%20NOW*,Proxy
+DOMAIN-SUFFIX,hbo.com,Proxy
+DOMAIN-SUFFIX,hbogo.com,Proxy
+DOMAIN-SUFFIX,hbonow.com,Proxy
+USER-AGENT,HBOMAX*,Proxy
+DOMAIN-SUFFIX,hbomax.com,Proxy
+DOMAIN-SUFFIX,hbomaxcdn.com,Proxy
 # > HBO Asia
-USER-AGENT,HBO%20GO%20PROD*,Streaming
-DOMAIN-SUFFIX,hbogoasia.com,Streaming
-DOMAIN-SUFFIX,hbogoasia.hk,Streaming
-DOMAIN-KEYWORD,.hbogoasia.,Streaming
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Streaming
-DOMAIN,bcbolthboa-a.akamaihd.net,Streaming
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Streaming
-DOMAIN,dai3fd1oh325y.cloudfront.net,Streaming
-DOMAIN,hboasia1-i.akamaihd.net,Streaming
-DOMAIN,hboasia2-i.akamaihd.net,Streaming
-DOMAIN,hboasia3-i.akamaihd.net,Streaming
-DOMAIN,hboasia4-i.akamaihd.net,Streaming
-DOMAIN,hboasia5-i.akamaihd.net,Streaming
-DOMAIN,hboasialive.akamaized.net,Streaming
-DOMAIN,hbogoprod-vod.akamaized.net,Streaming
-DOMAIN,hbolb.onwardsmg.com,Streaming
-DOMAIN,hbounify-prod.evergent.com,Streaming
-DOMAIN,players.brightcove.net,Streaming
-DOMAIN,s3-ap-southeast-1.amazonaws.com,Streaming
-# > 华文电视
-USER-AGENT,HWTVMobile*,Streaming
-DOMAIN-SUFFIX,5itv.tv,Streaming
-DOMAIN-SUFFIX,ocnttv.com,Streaming
+USER-AGENT,HBO%20GO%20PROD*,Proxy
+DOMAIN-SUFFIX,hbogoasia.com,Proxy
+DOMAIN-SUFFIX,hbogoasia.hk,Proxy
+DOMAIN-KEYWORD,.hbogoasia.,Proxy
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Proxy
+DOMAIN,bcbolthboa-a.akamaihd.net,Proxy
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Proxy
+DOMAIN,dai3fd1oh325y.cloudfront.net,Proxy
+DOMAIN,hboasia1-i.akamaihd.net,Proxy
+DOMAIN,hboasia2-i.akamaihd.net,Proxy
+DOMAIN,hboasia3-i.akamaihd.net,Proxy
+DOMAIN,hboasia4-i.akamaihd.net,Proxy
+DOMAIN,hboasia5-i.akamaihd.net,Proxy
+DOMAIN,hboasialive.akamaized.net,Proxy
+DOMAIN,hbogoprod-vod.akamaized.net,Proxy
+DOMAIN,hbolb.onwardsmg.com,Proxy
+DOMAIN,hbounify-prod.evergent.com,Proxy
+DOMAIN,players.brightcove.net,Proxy
+DOMAIN,s3-ap-southeast-1.amazonaws.com,Proxy
 # > Hulu
-DOMAIN-SUFFIX,hulu.com,Streaming
-DOMAIN-SUFFIX,huluim.com,Streaming
-DOMAIN-SUFFIX,hulustream.com,Streaming
+DOMAIN-SUFFIX,hulu.com,Proxy
+DOMAIN-SUFFIX,huluim.com,Proxy
+DOMAIN-SUFFIX,hulustream.com,Proxy
 # > Hulu / フールー
-DOMAIN-SUFFIX,happyon.jp,Streaming
-DOMAIN-SUFFIX,hjholdings.jp,Streaming
-DOMAIN-SUFFIX,hulu.jp,Streaming
+DOMAIN-SUFFIX,happyon.jp,Proxy
+DOMAIN-SUFFIX,hjholdings.jp,Proxy
+DOMAIN-SUFFIX,hulu.jp,Proxy
 # > ITV
-USER-AGENT,ITV_Player*,Streaming
-DOMAIN-SUFFIX,itv.com,Streaming
-DOMAIN-SUFFIX,itvstatic.com,Streaming
-DOMAIN,itvpnpmobile-a.akamaihd.net,Streaming
+USER-AGENT,ITV_Player*,Proxy
+DOMAIN-SUFFIX,itv.com,Proxy
+DOMAIN-SUFFIX,itvstatic.com,Proxy
+DOMAIN,itvpnpmobile-a.akamaihd.net,Proxy
 # > iQIYI
-DOMAIN-SUFFIX,iq.com,Streaming
-DOMAIN,intl.iqiyi.com,Streaming
-DOMAIN,intl-rcd.iqiyi.com,Streaming
-DOMAIN,intl-subscription.iqiyi.com,Streaming
-IP-CIDR,23.53.32.88/32,Streaming
-IP-CIDR,23.211.15.99/32,Streaming
-IP-CIDR,103.5.34.153/32,Streaming
-IP-CIDR,104.109.129.153/32,Streaming
-IP-CIDR,110.238.107.47/32,Streaming
-IP-CIDR,118.26.32.178/32,Streaming
-IP-CIDR,203.74.95.131/32,Streaming
-IP-CIDR,203.74.95.139/32,Streaming
-IP-CIDR,203.74.95.153/32,Streaming
-IP-CIDR,203.211.4.169/32,Streaming
-IP-CIDR,203.211.4.193/32,Streaming
-IP-CIDR,210.71.227.200/32,Streaming
-IP-CIDR,210.71.227.202/32,Streaming
-IP-CIDR,210.201.32.8/32,Streaming
-IP-CIDR,210.201.32.11/32,Streaming
-# > KKTV
-USER-AGENT,KKTV*,Streaming
-USER-AGENT,com.kktv.ios.kktv*,Streaming
-DOMAIN-SUFFIX,kktv.com.tw,Streaming
-DOMAIN-SUFFIX,kktv.me,Streaming
-DOMAIN,kktv-theater.kk.stream,Streaming
+DOMAIN-SUFFIX,iq.com,DIRECT
+DOMAIN,intl.iqiyi.com,DIRECT
+DOMAIN,intl-rcd.iqiyi.com,DIRECT
+DOMAIN,intl-subscription.iqiyi.com,DIRECT
+IP-CIDR,23.53.32.88/32,DIRECT
+IP-CIDR,23.211.15.99/32,DIRECT
+IP-CIDR,103.5.34.153/32,DIRECT
+IP-CIDR,104.109.129.153/32,DIRECT
+IP-CIDR,110.238.107.47/32,DIRECT
+IP-CIDR,118.26.32.178/32,DIRECT
+IP-CIDR,203.74.95.131/32,DIRECT
+IP-CIDR,203.74.95.139/32,DIRECT
+IP-CIDR,203.74.95.153/32,DIRECT
+IP-CIDR,203.211.4.169/32,DIRECT
+IP-CIDR,203.211.4.193/32,DIRECT
+IP-CIDR,210.71.227.200/32,DIRECT
+IP-CIDR,210.71.227.202/32,DIRECT
+IP-CIDR,210.201.32.8/32,DIRECT
+IP-CIDR,210.201.32.11/32,DIRECT
 # > LINE TV
-USER-AGENT,LINE%20TV*,Streaming
-DOMAIN-SUFFIX,linetv.tw,Streaming
-DOMAIN,d3c7rimkq79yfu.cloudfront.net,Streaming
-# > LiTV
-DOMAIN-SUFFIX,litv.tv,Streaming
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Streaming
-# > My5
-USER-AGENT,My5*,Streaming
-DOMAIN-SUFFIX,channel5.com,Streaming
-DOMAIN-SUFFIX,my5.tv,Streaming
-DOMAIN,d349g9zuie06uo.cloudfront.net,Streaming
-# > myTV SUPER
-USER-AGENT,mytv*,Streaming
-DOMAIN-SUFFIX,mytvsuper.com,Streaming
-DOMAIN-SUFFIX,tvb.com,Streaming
-# > Naver TV
-USER-AGENT,Naver%20TV*,Streaming
-DOMAIN-SUFFIX,naver.com,Streaming
-DOMAIN-SUFFIX,smartmediarep.com,Streaming
+USER-AGENT,LINE%20TV*,Proxy
+DOMAIN-SUFFIX,linetv.tw,Proxy
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,Proxy
 # > Netflix
-USER-AGENT,Argo*,Streaming
-DOMAIN-SUFFIX,netflix.com,Streaming
-DOMAIN-SUFFIX,netflix.net,Streaming
-DOMAIN-SUFFIX,nflxext.com,Streaming
-DOMAIN-SUFFIX,nflximg.com,Streaming
-DOMAIN-SUFFIX,nflximg.net,Streaming
-DOMAIN-SUFFIX,nflxso.net,Streaming
-DOMAIN-SUFFIX,nflxvideo.net,Streaming
-DOMAIN-KEYWORD,netflixdnstest,Streaming
-DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,Streaming
-DOMAIN-KEYWORD,dualstack.apiproxy-,Streaming
-# GEOIP,NETFLIX,Streaming
+USER-AGENT,Argo*,Proxy
+DOMAIN-SUFFIX,netflix.com,Proxy
+DOMAIN-SUFFIX,netflix.net,Proxy
+DOMAIN-SUFFIX,nflxext.com,Proxy
+DOMAIN-SUFFIX,nflximg.com,Proxy
+DOMAIN-SUFFIX,nflximg.net,Proxy
+DOMAIN-SUFFIX,nflxso.net,Proxy
+DOMAIN-SUFFIX,nflxvideo.net,Proxy
+DOMAIN-KEYWORD,netflixdnstest,Proxy
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,Proxy
+DOMAIN-KEYWORD,dualstack.apiproxy-,Proxy
+GEOIP,NETFLIX,Proxy
 # > niconico
-USER-AGENT,Niconico*,Streaming
-DOMAIN-SUFFIX,dmc.nico,Streaming
-DOMAIN-SUFFIX,nicovideo.jp,Streaming
-DOMAIN-SUFFIX,nimg.jp,Streaming
-# > Now E
-DOMAIN-SUFFIX,nowe.com,Streaming
-DOMAIN-SUFFIX,nowestatic.com,Streaming
-# > Paramount+
-USER-AGENT,PPlus*,Streaming
-DOMAIN-SUFFIX,cbsi.com,Streaming
-DOMAIN-SUFFIX,cbsaavideo.com,Streaming
-DOMAIN-SUFFIX,cbsivideo.com,Streaming
-DOMAIN-SUFFIX,paramountplus.com,Streaming
-DOMAIN-SUFFIX,pplusstatic.com,Streaming
-DOMAIN,cbsi.live.ott.irdeto.com,Streaming
-DOMAIN,cbsplaylistserver.aws.syncbak.com,Streaming
-DOMAIN,cbsservice.aws.syncbak.com,Streaming
-DOMAIN,link.theplatform.com,Streaming
-# > PBS
-USER-AGENT,PBS*,Streaming
-DOMAIN-SUFFIX,pbs.org,Streaming
-# > Peacock
-USER-AGENT,PeacockMobile*,Streaming
-DOMAIN-SUFFIX,peacocktv.com,Streaming
+USER-AGENT,Niconico*,Proxy
+DOMAIN-SUFFIX,dmc.nico,Proxy
+DOMAIN-SUFFIX,nicovideo.jp,Proxy
+DOMAIN-SUFFIX,nimg.jp,Proxy
 # > Pornhub
-DOMAIN-SUFFIX,phncdn.com,Streaming
-DOMAIN-SUFFIX,phprcdn.com,Streaming
-DOMAIN-SUFFIX,pornhub.com,Streaming
-DOMAIN-SUFFIX,pornhubpremium.com,Streaming
-# > 台湾好
-USER-AGENT,TaiwanGood*,Streaming
-DOMAIN-SUFFIX,skyking.com.tw,Streaming
-DOMAIN,hamifans.emome.net,Streaming
+DOMAIN-SUFFIX,phncdn.com,Proxy
+DOMAIN-SUFFIX,phprcdn.com,Proxy
+DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN-SUFFIX,pornhubpremium.com,Proxy
 # > TikTok
-USER-AGENT,TikTok*,Streaming
-DOMAIN-SUFFIX,byteoversea.com,Streaming
-DOMAIN-SUFFIX,ibytedtos.com,Streaming
-DOMAIN-SUFFIX,muscdn.com,Streaming
-DOMAIN-SUFFIX,musical.ly,Streaming
-DOMAIN-SUFFIX,tiktok.com,Streaming
-DOMAIN-SUFFIX,tik-tokapi.com,Streaming
-DOMAIN-SUFFIX,tiktokcdn.com,Streaming
-DOMAIN-SUFFIX,tiktokv.com,Streaming
-DOMAIN-KEYWORD,tiktokcdn-,Streaming
+USER-AGENT,TikTok*,Proxy
+DOMAIN-SUFFIX,byteoversea.com,Proxy
+DOMAIN-SUFFIX,ibytedtos.com,Proxy
+DOMAIN-SUFFIX,muscdn.com,Proxy
+DOMAIN-SUFFIX,musical.ly,Proxy
+DOMAIN-SUFFIX,tiktok.com,Proxy
+DOMAIN-SUFFIX,tik-tokapi.com,Proxy
+DOMAIN-SUFFIX,tiktokcdn.com,Proxy
+DOMAIN-SUFFIX,tiktokv.com,Proxy
+DOMAIN-KEYWORD,tiktokcdn-,Proxy
 # > TVer
-USER-AGENT,TVer-Release*,Streaming
-DOMAIN-SUFFIX,tver.jp,Streaming
-DOMAIN,edge.api.brightcove.com,Streaming
-# > ViuTV
-USER-AGENT,Viu*,Streaming
-DOMAIN-SUFFIX,viu.com,Streaming
-DOMAIN-SUFFIX,viu.tv,Streaming
-DOMAIN,api.viu.now.com,Streaming
-DOMAIN,d1k2us671qcoau.cloudfront.net,Streaming
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,Streaming
-DOMAIN,dfp6rglgjqszk.cloudfront.net,Streaming
+USER-AGENT,TVer-Release*,Proxy
+DOMAIN-SUFFIX,tver.jp,Proxy
+DOMAIN,edge.api.brightcove.com,Proxy
 # > WeTV
-USER-AGENT,WeTV*,Streaming
-DOMAIN-SUFFIX,wetv.vip,Streaming
-DOMAIN-SUFFIX,wetvinfo.com,Streaming
-IP-CIDR,150.109.28.51/32,Streaming
+USER-AGENT,WeTV*,Proxy
+DOMAIN-SUFFIX,wetv.vip,Proxy
+DOMAIN-SUFFIX,wetvinfo.com,Proxy
+IP-CIDR,150.109.28.51/32,Proxy
 # > YouTube
-USER-AGENT,com.google.ios.youtube*,Streaming
-USER-AGENT,YouTube*,Streaming
-DOMAIN-SUFFIX,googlevideo.com,Streaming
-DOMAIN-SUFFIX,withyoutube.com,Streaming
-DOMAIN-SUFFIX,youtu.be,Streaming
-DOMAIN-SUFFIX,youtube.com,Streaming
-DOMAIN-SUFFIX,youtubeeducation.com,Streaming
-DOMAIN-SUFFIX,youtubegaming.com,Streaming
-DOMAIN-SUFFIX,youtubekids.com,Streaming
-DOMAIN-SUFFIX,youtube-nocookie.com,Streaming
-DOMAIN-SUFFIX,yt.be,Streaming
-DOMAIN-SUFFIX,ytimg.com,Streaming
-DOMAIN,youtubei.googleapis.com,Streaming
-DOMAIN,yt3.ggpht.com,Streaming
+USER-AGENT,com.google.ios.youtube*,Proxy
+USER-AGENT,YouTube*,Proxy
+DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,withyoutube.com,Proxy
+DOMAIN-SUFFIX,youtu.be,Proxy
+DOMAIN-SUFFIX,youtube.com,Proxy
+DOMAIN-SUFFIX,youtubeeducation.com,Proxy
+DOMAIN-SUFFIX,youtubegaming.com,Proxy
+DOMAIN-SUFFIX,youtubekids.com,Proxy
+DOMAIN-SUFFIX,youtube-nocookie.com,Proxy
+DOMAIN-SUFFIX,yt.be,Proxy
+DOMAIN-SUFFIX,ytimg.com,Proxy
+DOMAIN,youtubei.googleapis.com,Proxy
+DOMAIN,yt3.ggpht.com,Proxy
