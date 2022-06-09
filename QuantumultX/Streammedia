@@ -198,6 +198,16 @@ DOMAIN-SUFFIX,biliapi.net,DIRECT
 DOMAIN-SUFFIX,bilibili.com,DIRECT
 DOMAIN-SUFFIX,bilivideo.com,DIRECT
 DOMAIN-SUFFIX,hdslb.com,DIRECT
+DOMAIN,api.biliapi.com,DIRECT
+DOMAIN,api.biliapi.net,DIRECT
+DOMAIN,api.bilibili.com,DIRECT
+DOMAIN,app.biliapi.com,DIRECT
+DOMAIN,app.biliapi.net,DIRECT
+DOMAIN,app.bilibili.com,DIRECT
+DOMAIN,grpc.biliapi.net,DIRECT
+DOMAIN,m.bilibili.com,DIRECT
+DOMAIN,upos-hz-mirrorakam.akamaized.net,DIRECT
+DOMAIN,www.bilibili.com,DIRECT
 # > Tencent Video
 DOMAIN-SUFFIX,video.qq.com,DIRECT
 DOMAIN-SUFFIX,i.qq.com,DIRECT
