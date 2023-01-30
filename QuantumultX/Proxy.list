@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,artstation.com,Proxy
 DOMAIN-SUFFIX,ask.com,Proxy
 DOMAIN-SUFFIX,avg.com,Proxy
 DOMAIN-SUFFIX,axios.com,Proxy
+DOMAIN-SUFFIX,bad.news,Proxy
 DOMAIN-SUFFIX,bandcamp.com,Proxy
 DOMAIN-SUFFIX,bandwagonhost.com,Proxy
 DOMAIN-SUFFIX,bbc.com,Proxy
@@ -53,6 +54,7 @@ DOMAIN-SUFFIX,foreignpolicy.com,Proxy
 DOMAIN-SUFFIX,ft.com,Proxy
 DOMAIN-SUFFIX,ftchinese.com,Proxy
 DOMAIN-SUFFIX,ftimg.net,Proxy
+DOMAIN-SUFFIX,good.news,Proxy
 DOMAIN-SUFFIX,genius.com,Proxy
 DOMAIN-SUFFIX,getsync.com,Proxy
 DOMAIN-SUFFIX,gfw.report,Proxy
