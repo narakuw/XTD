@@ -453,6 +453,8 @@ DOMAIN-SUFFIX,vine.co,Proxy
 # > Mastodon
 DOMAIN-KEYWORD,mastodon,Proxy
 DOMAIN-SUFFIX,mstdn.jp,Proxy
+# > OpenAI
+DOMAIN-SUFFIX,openai.com,Proxy
 # > Wikimedia Foundation
 DOMAIN-KEYWORD,wikipedia,Proxy
 DOMAIN-SUFFIX,mediawiki.org,Proxy
