@@ -371,6 +371,7 @@ DOMAIN-SUFFIX,rocksdb.org,Proxy
 DOMAIN-SUFFIX,whatsapp.com,Proxy
 DOMAIN-SUFFIX,whatsapp.net,Proxy
 DOMAIN-KEYWORD,.facebook.,Proxy
+DOMAIN-SUFFIX,threads.net,Proxy
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms,Proxy
 DOMAIN-SUFFIX,github.blog,Proxy
