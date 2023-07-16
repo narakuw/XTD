@@ -456,6 +456,7 @@ DOMAIN-KEYWORD,mastodon,Proxy
 DOMAIN-SUFFIX,mstdn.jp,Proxy
 # > OpenAI
 DOMAIN-SUFFIX,openai.com,Proxy
+DOMAIN-SUFFIX,anthropic.com,Proxy
 # > Wikimedia Foundation
 DOMAIN-KEYWORD,wikipedia,Proxy
 DOMAIN-SUFFIX,mediawiki.org,Proxy
