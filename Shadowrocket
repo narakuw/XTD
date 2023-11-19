@@ -1698,7 +1698,6 @@ DOMAIN-SUFFIX,keepfrds.com,DIRECT
 DOMAIN-SUFFIX,kkmh.com,DIRECT
 DOMAIN-SUFFIX,ksosoft.com,DIRECT
 DOMAIN-SUFFIX,kuyunbo.club,DIRECT
-DOMAIN-SUFFIX,licdn.com,DIRECT
 DOMAIN-SUFFIX,loli.net,DIRECT
 DOMAIN-SUFFIX,luojilab.com,DIRECT
 DOMAIN-SUFFIX,maoyun.tv,DIRECT
@@ -2659,7 +2658,7 @@ DOMAIN,apple.comscoreresearch.com,Proxy
 # > Microsoft
 DOMAIN-SUFFIX,bing.com,Proxy
 DOMAIN-SUFFIX,linkedin.com,Proxy
-DOMAIN-SUFFIX,licdn.com,Proxy
+DOMAIN-SUFFIX,static.licdn.com,Proxy
 # OneDrive
 DOMAIN-SUFFIX,1drv.com,Proxy
 DOMAIN-SUFFIX,Proxy.com,Proxy
