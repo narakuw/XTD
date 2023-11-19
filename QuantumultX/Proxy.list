@@ -520,7 +520,7 @@ DOMAIN,apple.comscoreresearch.com,Proxy
 # > Microsoft
 DOMAIN-SUFFIX,bing.com,Proxy
 DOMAIN-SUFFIX,linkedin.com,Proxy
-DOMAIN-SUFFIX,licdn.com,Proxy
+DOMAIN-SUFFIX,static.licdn.com,Proxy
 # OneDrive
 DOMAIN-SUFFIX,1drv.com,Proxy
 DOMAIN-SUFFIX,Proxy.com,Proxy
