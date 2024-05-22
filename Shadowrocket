@@ -2462,9 +2462,23 @@ DOMAIN-SUFFIX,discord.com,Proxy
 DOMAIN-SUFFIX,discordapp.com,Proxy
 DOMAIN-SUFFIX,discordapp.net,Proxy
 # > Dropbox
+DOMAIN-SUFFIX,db.tt,Proxy
+DOMAIN-SUFFIX,dropbox-dns.com,Proxy
 DOMAIN-SUFFIX,dropbox.com,Proxy
+DOMAIN-SUFFIX,dropbox.tech,Proxy
+DOMAIN-SUFFIX,dropbox.zendesk.com,Proxy
 DOMAIN-SUFFIX,dropboxapi.com,Proxy
+DOMAIN-SUFFIX,dropboxbusiness.com,Proxy
+DOMAIN-SUFFIX,dropboxcaptcha.com,Proxy
+DOMAIN-SUFFIX,dropboxforum.com,Proxy
+DOMAIN-SUFFIX,dropboxforums.com,Proxy
+DOMAIN-SUFFIX,dropboxinsiders.com,Proxy
+DOMAIN-SUFFIX,dropboxmail.com,Proxy
+DOMAIN-SUFFIX,dropboxpartners.com,Proxy
+DOMAIN-SUFFIX,dropboxstatic.com,Proxy
 DOMAIN-SUFFIX,dropboxusercontent.com,Proxy
+DOMAIN-SUFFIX,getdropbox.com,Proxy
+DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com,Proxy
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net,Proxy
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,Proxy
