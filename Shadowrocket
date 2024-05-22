@@ -803,7 +803,7 @@ DOMAIN-SUFFIX,aty.sohu.com,REJECT
 DOMAIN,imp.optaim.com,REJECT
 DOMAIN,v2.reachmax.cn,REJECT
 DOMAIN,hui.sohu.com,REJECT
-# > Snapcha‪t‬
+# > SnapchaU+202AtU+202C
 DOMAIN,ads.snapchat.com,REJECT
 DOMAIN,adsapi.snapchat.com,REJECT
 
@@ -2405,7 +2405,7 @@ DOMAIN,www.googleapis.com,Proxy
 DOMAIN-KEYWORD,google.,Proxy
 DOMAIN-SUFFIX,google.com,Proxy
 # > Google Voice
-# 如果你的代理服务器不支持 udp-relay 可尝试 DIRECT 以免被 REJECT（部分 Google 服务器还可直连）
+# ???????????? udp-relay ??? DIRECT ??? REJECT(?? Google ???????)
 DOMAIN,lens.l.google.com,Proxy
 # > Apple
 DOMAIN,testflight.apple.com,Proxy
@@ -3113,7 +3113,7 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com,Proxy
 DOMAIN-SUFFIX,hulu.com,Proxy
 DOMAIN-SUFFIX,huluim.com,Proxy
 DOMAIN-SUFFIX,hulustream.com,Proxy
-# > Hulu / フールー
+# > Hulu / ????
 DOMAIN-SUFFIX,happyon.jp,Proxy
 DOMAIN-SUFFIX,hjholdings.jp,Proxy
 DOMAIN-SUFFIX,hulu.jp,Proxy
