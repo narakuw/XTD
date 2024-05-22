@@ -1,2 +1,2 @@
 # XTD
-This is a profile of QuantumultX
+This is a profile of Rule configuration
